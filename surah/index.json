@@ -1,0 +1,686 @@
+[
+	{
+		"sid": "1",
+		"place": "Makkiyyah",
+		"file": "001.json",
+		"name": "Al‐Faatihah"
+	},
+	{
+		"sid": "2",
+		"place": "Madaniyyah",
+		"file": "002.json",
+		"name": "Al‐Baqarah"
+	},
+	{
+		"sid": "3",
+		"place": "Madaniyyah",
+		"file": "003.json",
+		"name": "Aali `Imraan"
+	},
+	{
+		"sid": "4",
+		"place": "Madaniyyah",
+		"file": "004.json",
+		"name": "An‐Nisaa`"
+	},
+	{
+		"sid": "5",
+		"place": "Madaniyyah",
+		"file": "005.json",
+		"name": "Al‐Maa`idah"
+	},
+	{
+		"sid": "6",
+		"place": "Makkiyyah",
+		"file": "006.json",
+		"name": "Al‐An`aam"
+	},
+	{
+		"sid": "7",
+		"place": "Makkiyyah",
+		"file": "007.json",
+		"name": "Al‐A`raaf"
+	},
+	{
+		"sid": "8",
+		"place": "Madaniyyah",
+		"file": "008.json",
+		"name": "Al‐Anfaal"
+	},
+	{
+		"sid": "9",
+		"place": "Madaniyyah",
+		"file": "009.json",
+		"name": "At‐Taubah"
+	},
+	{
+		"sid": "10",
+		"place": "Makkiyyah",
+		"file": "010.json",
+		"name": "Yuunus"
+	},
+	{
+		"sid": "11",
+		"place": "Makkiyyah",
+		"file": "011.json",
+		"name": "Huud"
+	},
+	{
+		"sid": "12",
+		"place": "Makkiyyah",
+		"file": "012.json",
+		"name": "Yuusuf"
+	},
+	{
+		"sid": "13",
+		"place": "Makkiyyah",
+		"file": "013.json",
+		"name": "Ar‐Ra`d"
+	},
+	{
+		"sid": "14",
+		"place": "Makkiyyah",
+		"file": "014.json",
+		"name": "Ibraahiim"
+	},
+	{
+		"sid": "15",
+		"place": "Makkiyyah",
+		"file": "015.json",
+		"name": "Al‐Hijr"
+	},
+	{
+		"sid": "16",
+		"place": "Makkiyyah",
+		"file": "016.json",
+		"name": "An‐Nahl"
+	},
+	{
+		"sid": "17",
+		"place": "Makkiyyah",
+		"file": "017.json",
+		"name": "Al‐Israa`"
+	},
+	{
+		"sid": "18",
+		"place": "Makkiyyah",
+		"file": "018.json",
+		"name": "Al‐Kahf"
+	},
+	{
+		"sid": "19",
+		"place": "Makkiyyah",
+		"file": "019.json",
+		"name": "Maryam"
+	},
+	{
+		"sid": "20",
+		"place": "Makkiyyah",
+		"file": "020.json",
+		"name": "Thaahaa"
+	},
+	{
+		"sid": "21",
+		"place": "Makkiyyah",
+		"file": "021.json",
+		"name": "Al‐Anbiyaa`"
+	},
+	{
+		"sid": "22",
+		"place": "Madaniyyah",
+		"file": "022.json",
+		"name": "Al‐Hajj"
+	},
+	{
+		"sid": "23",
+		"place": "Makkiyyah",
+		"file": "023.json",
+		"name": "Al‐Mu`minuun"
+	},
+	{
+		"sid": "24",
+		"place": "Madaniyyah",
+		"file": "024.json",
+		"name": "An‐Nuur"
+	},
+	{
+		"sid": "25",
+		"place": "Makkiyyah",
+		"file": "025.json",
+		"name": "Al‐Furqaan"
+	},
+	{
+		"sid": "26",
+		"place": "Makkiyyah",
+		"file": "026.json",
+		"name": "Asy‐Syu`araa`"
+	},
+	{
+		"sid": "27",
+		"place": "Makkiyyah",
+		"file": "027.json",
+		"name": "An‐Naml"
+	},
+	{
+		"sid": "28",
+		"place": "Makkiyyah",
+		"file": "028.json",
+		"name": "Al‐Qashash"
+	},
+	{
+		"sid": "29",
+		"place": "Makkiyyah",
+		"file": "029.json",
+		"name": "Al‐`Ankabuut"
+	},
+	{
+		"sid": "30",
+		"place": "Makkiyyah",
+		"file": "030.json",
+		"name": "Ar‐Ruum"
+	},
+	{
+		"sid": "31",
+		"place": "Makkiyyah",
+		"file": "031.json",
+		"name": "Luqmaan"
+	},
+	{
+		"sid": "32",
+		"place": "Makkiyyah",
+		"file": "032.json",
+		"name": "As‐Sajdah"
+	},
+	{
+		"sid": "33",
+		"place": "Madaniyyah",
+		"file": "033.json",
+		"name": "Al‐Ahzaab"
+	},
+	{
+		"sid": "34",
+		"place": "Makkiyyah",
+		"file": "034.json",
+		"name": "Saba`"
+	},
+	{
+		"sid": "35",
+		"place": "Makkiyyah",
+		"file": "035.json",
+		"name": "Faathir"
+	},
+	{
+		"sid": "36",
+		"place": "Makkiyyah",
+		"file": "036.json",
+		"name": "Yaasiin"
+	},
+	{
+		"sid": "37",
+		"place": "Makkiyyah",
+		"file": "037.json",
+		"name": "Ash‐Shaaffaat"
+	},
+	{
+		"sid": "38",
+		"place": "Makkiyyah",
+		"file": "038.json",
+		"name": "Shaad"
+	},
+	{
+		"sid": "39",
+		"place": "Makkiyyah",
+		"file": "039.json",
+		"name": "Az‐Zumar"
+	},
+	{
+		"sid": "40",
+		"place": "Makkiyyah",
+		"file": "040.json",
+		"name": "Al‐Mu`min"
+	},
+	{
+		"sid": "41",
+		"place": "Makkiyyah",
+		"file": "041.json",
+		"name": "Fushshilat"
+	},
+	{
+		"sid": "42",
+		"place": "Makkiyyah",
+		"file": "042.json",
+		"name": "Asy‐Syuuraa"
+	},
+	{
+		"sid": "43",
+		"place": "Makkiyyah",
+		"file": "043.json",
+		"name": "Az‐Zukhruf"
+	},
+	{
+		"sid": "44",
+		"place": "Makkiyyah",
+		"file": "044.json",
+		"name": "Ad‐Dukhaan"
+	},
+	{
+		"sid": "45",
+		"place": "Makkiyyah",
+		"file": "045.json",
+		"name": "Al‐Jaatsiyah"
+	},
+	{
+		"sid": "46",
+		"place": "Makkiyyah",
+		"file": "046.json",
+		"name": "Al‐Ahqaaf"
+	},
+	{
+		"sid": "47",
+		"place": "Madaniyyah",
+		"file": "047.json",
+		"name": "Muhammad"
+	},
+	{
+		"sid": "48",
+		"place": "Madaniyyah",
+		"file": "048.json",
+		"name": "Al‐Fath"
+	},
+	{
+		"sid": "49",
+		"place": "Madaniyyah",
+		"file": "049.json",
+		"name": "Al‐Hujuraat"
+	},
+	{
+		"sid": "50",
+		"place": "Makkiyyah",
+		"file": "050.json",
+		"name": "Qaaf"
+	},
+	{
+		"sid": "51",
+		"place": "Makkiyyah",
+		"file": "051.json",
+		"name": "Adz‐Dzaariyaat"
+	},
+	{
+		"sid": "52",
+		"place": "Makkiyyah",
+		"file": "052.json",
+		"name": "Ath‐Thuur"
+	},
+	{
+		"sid": "53",
+		"place": "Makkiyyah",
+		"file": "053.json",
+		"name": "An‐Najm"
+	},
+	{
+		"sid": "54",
+		"place": "Makkiyyah",
+		"file": "054.json",
+		"name": "Al‐Qamar"
+	},
+	{
+		"sid": "55",
+		"place": "Madaniyyah",
+		"file": "055.json",
+		"name": "Ar‐Rahmaan"
+	},
+	{
+		"sid": "56",
+		"place": "Makkiyyah",
+		"file": "056.json",
+		"name": "Al‐Waaqi`ah"
+	},
+	{
+		"sid": "57",
+		"place": "Madaniyyah",
+		"file": "057.json",
+		"name": "Al‐Hadid"
+	},
+	{
+		"sid": "58",
+		"place": "Madaniyyah",
+		"file": "058.json",
+		"name": "Al‐Mujaadilah"
+	},
+	{
+		"sid": "59",
+		"place": "Madaniyyah",
+		"file": "059.json",
+		"name": "Al‐Hasyr"
+	},
+	{
+		"sid": "60",
+		"place": "Madaniyyah",
+		"file": "060.json",
+		"name": "Al‐Mumtahanah"
+	},
+	{
+		"sid": "61",
+		"place": "Madaniyyah",
+		"file": "061.json",
+		"name": "Ash‐Shaff"
+	},
+	{
+		"sid": "62",
+		"place": "Madaniyyah",
+		"file": "062.json",
+		"name": "Al‐Jumu`ah"
+	},
+	{
+		"sid": "63",
+		"place": "Madaniyyah",
+		"file": "063.json",
+		"name": "Al‐Munaafiquun"
+	},
+	{
+		"sid": "64",
+		"place": "Madaniyyah",
+		"file": "064.json",
+		"name": "At‐Taghaabun"
+	},
+	{
+		"sid": "65",
+		"place": "Madaniyyah",
+		"file": "065.json",
+		"name": "Ath‐Thalaaq"
+	},
+	{
+		"sid": "66",
+		"place": "Madaniyyah",
+		"file": "066.json",
+		"name": "At‐Tahriim"
+	},
+	{
+		"sid": "67",
+		"place": "Makkiyyah",
+		"file": "067.json",
+		"name": "Al‐Mulk"
+	},
+	{
+		"sid": "68",
+		"place": "Makkiyyah",
+		"file": "068.json",
+		"name": "Al‐Qalam"
+	},
+	{
+		"sid": "69",
+		"place": "Makkiyyah",
+		"file": "069.json",
+		"name": "Al‐Haaqqah"
+	},
+	{
+		"sid": "70",
+		"place": "Makkiyyah",
+		"file": "070.json",
+		"name": "Al‐Ma`aarij"
+	},
+	{
+		"sid": "71",
+		"place": "Makkiyyah",
+		"file": "071.json",
+		"name": "Nuuh"
+	},
+	{
+		"sid": "72",
+		"place": "Makkiyyah",
+		"file": "072.json",
+		"name": "Al‐Jinn"
+	},
+	{
+		"sid": "73",
+		"place": "Makkiyyah",
+		"file": "073.json",
+		"name": "Al‐Muzzammil"
+	},
+	{
+		"sid": "74",
+		"place": "Madaniyyah",
+		"file": "074.json",
+		"name": "Al‐Muddatstsir"
+	},
+	{
+		"sid": "75",
+		"place": "Makkiyyah",
+		"file": "075.json",
+		"name": "Al‐Qiyaamah"
+	},
+	{
+		"sid": "76",
+		"place": "Madaniyyah",
+		"file": "076.json",
+		"name": "Al‐Insaan"
+	},
+	{
+		"sid": "77",
+		"place": "Makkiyyah",
+		"file": "077.json",
+		"name": "Al‐Mursalaat"
+	},
+	{
+		"sid": "78",
+		"place": "Makkiyyah",
+		"file": "078.json",
+		"name": "An‐Naba`"
+	},
+	{
+		"sid": "79",
+		"place": "Makkiyyah",
+		"file": "079.json",
+		"name": "An‐Naazi`aat"
+	},
+	{
+		"sid": "80",
+		"place": "Makkiyyah",
+		"file": "080.json",
+		"name": "`Abasa"
+	},
+	{
+		"sid": "81",
+		"place": "Makkiyyah",
+		"file": "081.json",
+		"name": "At‐Takwiir"
+	},
+	{
+		"sid": "82",
+		"place": "Makkiyyah",
+		"file": "082.json",
+		"name": "Al‐Infithaar"
+	},
+	{
+		"sid": "83",
+		"place": "Makkiyyah",
+		"file": "083.json",
+		"name": "Al‐Muthaffifiin"
+	},
+	{
+		"sid": "84",
+		"place": "Makkiyyah",
+		"file": "084.json",
+		"name": "Al‐Insyiqaaq"
+	},
+	{
+		"sid": "85",
+		"place": "Makkiyyah",
+		"file": "085.json",
+		"name": "Al‐Buruuj"
+	},
+	{
+		"sid": "86",
+		"place": "Makkiyyah",
+		"file": "086.json",
+		"name": "Ath‐Thaariq"
+	},
+	{
+		"sid": "87",
+		"place": "Makkiyyah",
+		"file": "087.json",
+		"name": "Al‐A`laa"
+	},
+	{
+		"sid": "88",
+		"place": "Makkiyyah",
+		"file": "088.json",
+		"name": "Al‐Ghaasyiyah"
+	},
+	{
+		"sid": "89",
+		"place": "Makkiyyah",
+		"file": "089.json",
+		"name": "Al‐Fajr"
+	},
+	{
+		"sid": "90",
+		"place": "Makkiyyah",
+		"file": "090.json",
+		"name": "Al‐Balad"
+	},
+	{
+		"sid": "91",
+		"place": "Makkiyyah",
+		"file": "091.json",
+		"name": "Asy‐Syams"
+	},
+	{
+		"sid": "92",
+		"place": "Makkiyyah",
+		"file": "092.json",
+		"name": "Al‐Lail"
+	},
+	{
+		"sid": "93",
+		"place": "Makkiyyah",
+		"file": "093.json",
+		"name": "Adh‐Ḍuhaa"
+	},
+	{
+		"sid": "94",
+		"place": "Makkiyyah",
+		"file": "094.json",
+		"name": "Asy‐Syarh"
+	},
+	{
+		"sid": "95",
+		"place": "Makkiyyah",
+		"file": "095.json",
+		"name": "At‐Tiin"
+	},
+	{
+		"sid": "96",
+		"place": "Makkiyyah",
+		"file": "096.json",
+		"name": "Al‐`Alaq"
+	},
+	{
+		"sid": "97",
+		"place": "Makkiyyah",
+		"file": "097.json",
+		"name": "Al‐Qadr"
+	},
+	{
+		"sid": "98",
+		"place": "Makkiyyah",
+		"file": "098.json",
+		"name": "Al‐Bayyinah"
+	},
+	{
+		"sid": "99",
+		"place": "Makkiyyah",
+		"file": "099.json",
+		"name": "Az‐Zalzalah"
+	},
+	{
+		"sid": "100",
+		"place": "Makkiyyah",
+		"file": "100.json",
+		"name": "Al‐`Aadiyaat"
+	},
+	{
+		"sid": "101",
+		"place": "Makkiyyah",
+		"file": "101.json",
+		"name": "Al‐Qaari`ah"
+	},
+	{
+		"sid": "102",
+		"place": "Makkiyyah",
+		"file": "102.json",
+		"name": "At‐Takaatsur"
+	},
+	{
+		"sid": "103",
+		"place": "Makkiyyah",
+		"file": "103.json",
+		"name": "Al‐`Ashr"
+	},
+	{
+		"sid": "104",
+		"place": "Makkiyyah",
+		"file": "104.json",
+		"name": "Al‐Humazah"
+	},
+	{
+		"sid": "105",
+		"place": "Madaniyyah",
+		"file": "105.json",
+		"name": "Al‐Fiil"
+	},
+	{
+		"sid": "106",
+		"place": "Makkiyyah",
+		"file": "106.json",
+		"name": "Quraisy"
+	},
+	{
+		"sid": "107",
+		"place": "Makkiyyah",
+		"file": "107.json",
+		"name": "Al‐Maa`uun"
+	},
+	{
+		"sid": "108",
+		"place": "Makkiyyah",
+		"file": "108.json",
+		"name": "Al‐Kautsar"
+	},
+	{
+		"sid": "109",
+		"place": "Makkiyyah",
+		"file": "109.json",
+		"name": "Al‐Kaafiruun"
+	},
+	{
+		"sid": "110",
+		"place": "Madaniyyah",
+		"file": "110.json",
+		"name": "An‐Nashr"
+	},
+	{
+		"sid": "111",
+		"place": "Makkiyyah",
+		"file": "111.json",
+		"name": "Al‐Lahab"
+	},
+	{
+		"sid": "112",
+		"place": "Makkiyyah",
+		"file": "112.json",
+		"name": "Al‐Ikhlaash"
+	},
+	{
+		"sid": "113",
+		"place": "Makkiyyah",
+		"file": "113.json",
+		"name": "Al‐Falaq"
+	},
+	{
+		"sid": "114",
+		"place": "Makkiyyah",
+		"file": "114.json",
+		"name": "An‐Naas"
+	}
+]

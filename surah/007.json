@@ -1,0 +1,983 @@
+[
+	{
+		"aid": "0",
+		"text": "Dengan nama Allah Yang Maha Pengasih, Maha Penyayang."
+	},
+	{
+		"aid": "1",
+		"text": "Alif Laam Miim Shaad."
+	},
+	{
+		"aid": "2",
+		"p": "op",
+		"text": "Ini adalah sebuah kitab yang diturunkan kepadamu, maka janganlah ada kesempitan di dalam dadamu karenanya, supaya kamu memberi peringatan dengan kitab itu (kepada orang kafir), dan menjadi pelajaran bagi orang-orang yang beriman."
+	},
+	{
+		"aid": "3",
+		"text": "Ikutilah apa yang diturunkan kepadamu dari Tuhanmu dan janganlah kamu mengikuti pemimpin-pemimpin selain-Nya. Amat sedikitlah kamu mengambil pelajaran (darinya)."
+	},
+	{
+		"aid": "4",
+		"p": "nl",
+		"text": "Betapa banyaknya negeri yang telah Kami binasakan, maka datanglah siksaan Kami (menimpa penduduk) nya di waktu mereka berada di malam hari, atau di waktu mereka beristirahat di tengah hari."
+	},
+	{
+		"aid": "5",
+		"p": "cp",
+		"text": "Maka tidak adalah keluhan mereka di waktu datang kepada mereka siksaan Kami, kecuali mengatakan, “Sesungguhnya kami adalah orang-orang yang zalim.”"
+	},
+	{
+		"aid": "6",
+		"p": "op",
+		"text": "Maka sesungguhnya Kami akan menanyai umat-umat yang telah diutus rasul-rasul kepada mereka dan sesungguhnya Kami akan menanyai (pula) rasul-rasul (Kami),"
+	},
+	{
+		"aid": "7",
+		"text": "maka sesungguhnya akan Kami kabarkan kepada mereka (apa-apa yang telah mereka perbuat), sedang (Kami) mengetahui (keadaan mereka), dan Kami sekali-kali tidak jauh (dari mereka)."
+	},
+	{
+		"aid": "8",
+		"p": "nl",
+		"text": "Timbangan pada hari itu ialah kebenaran (keadilan), maka barang siapa berat timbangan kebaikannya, maka mereka itulah orang-orang yang beruntung."
+	},
+	{
+		"aid": "9",
+		"p": "cp",
+		"text": "Dan siapa yang ringan timbangan kebaikannya, maka itulah orang-orang yang merugikan dirinya sendiri, disebabkan mereka selalu mengingkari ayat-ayat Kami."
+	},
+	{
+		"aid": "10",
+		"r": "1",
+		"text": "Sesungguhnya Kami telah menempatkan kamu sekalian di muka bumi dan Kami adakan bagimu di muka bumi itu (sumber) penghidupan. Amat sedikitlah kamu bersyukur."
+	},
+	{
+		"aid": "11",
+		"p": "op",
+		"text": "Sesungguhnya Kami telah menciptakan kamu (Adam), lalu Kami bentuk tubuhmu, kemudian Kami katakan kepada para malaikat, “Bersujudlah kamu kepada Adam”; maka mereka pun bersujud kecuali iblis. Dia tidak termasuk mereka yang bersujud."
+	},
+	{
+		"aid": "12",
+		"p": "nl",
+		"text": "Allah berfirman, “Apakah yang menghalangimu untuk bersujud (kepada Adam) di waktu Aku menyuruhmu?” Menjawab iblis, “Saya lebih baik daripadanya: Engkau ciptakan saya dari api sedang dia Engkau ciptakan dari tanah.”"
+	},
+	{
+		"aid": "13",
+		"p": "nl",
+		"text": "Allah berfirman, “Turunlah kamu dari surga itu; karena kamu tidak sepatutnya menyombongkan diri di dalamnya, maka ke luarlah, sesungguhnya kamu termasuk orang-orang yang hina.”"
+	},
+	{
+		"aid": "14",
+		"text": "Iblis menjawab, “Beri tangguhlah saya sampai waktu mereka dibangkitkan.”"
+	},
+	{
+		"aid": "15",
+		"p": "nl",
+		"text": "Allah berfirman, “Sesungguhnya kamu termasuk mereka yang diberi tangguh.”"
+	},
+	{
+		"aid": "16",
+		"text": "Iblis menjawab, “Karena Engkau telah menghukum saya tersesat, saya benar-benar akan (menghalang-halangi) mereka dari jalan Engkau yang lurus,"
+	},
+	{
+		"aid": "17",
+		"text": "kemudian saya akan mendatangi mereka dari muka dan dari belakang mereka, dari kanan dan dari kiri mereka. Dan Engkau tidak akan mendapati kebanyakan mereka bersyukur (taat).”"
+	},
+	{
+		"aid": "18",
+		"p": "nlcp",
+		"text": "Allah berfirman, “Keluarlah kamu dari surga itu sebagai orang terhina lagi terusir. Sesungguhnya barang siapa di antara mereka mengikuti kamu, benar-benar Aku akan mengisi neraka Jahanam dengan kamu semuanya.”"
+	},
+	{
+		"aid": "19",
+		"p": "op",
+		"text": "(Dan Allah berfirman), “Hai Adam bertempat tinggallah kamu dan istrimu di surga serta makanlah olehmu berdua (buah-buahan) di mana saja yang kamu sukai, dan janganlah kamu berdua mendekati pohon ini, lalu menjadilah kamu berdua termasuk orang-orang yang zalim.”"
+	},
+	{
+		"aid": "20",
+		"p": "nl",
+		"text": "Maka setan membisikkan pikiran jahat kepada keduanya untuk menampakkan kepada keduanya apa yang tertutup dari mereka yaitu auratnya dan setan berkata, “Tuhan kamu tidak melarangmu dari mendekati pohon ini, melainkan supaya kamu berdua tidak menjadi malaikat atau tidak menjadi orang yang kekal (dalam surga).”"
+	},
+	{
+		"aid": "21",
+		"text": "Dan dia (setan) bersumpah kepada keduanya, “Sesungguhnya saya adalah termasuk orang yang memberi nasihat kepada kamu berdua”,"
+	},
+	{
+		"aid": "22",
+		"text": "maka setan membujuk keduanya (untuk memakan buah itu) dengan tipu daya. Tatkala keduanya telah merasai buah kayu itu, nampaklah bagi keduanya aurat-auratnya, dan mulailah keduanya menutupinya dengan daun-daun surga. Kemudian Tuhan mereka menyeru mereka, “Bukankah Aku telah melarang kamu berdua dari pohon kayu itu dan Aku katakan kepadamu, “Sesungguhnya setan itu adalah musuh yang nyata bagi kamu berdua?”"
+	},
+	{
+		"aid": "23",
+		"p": "nl",
+		"text": "Keduanya berkata, “Ya Tuhan kami, kami telah menganiaya diri kami sendiri, dan jika Engkau tidak mengampuni kami dan memberi rahmat kepada kami, niscaya pastilah kami termasuk orang-orang yang merugi.”"
+	},
+	{
+		"aid": "24",
+		"p": "nl",
+		"text": "Allah berfirman, “Turunlah kamu sekalian, sebahagian kamu menjadi musuh bagi sebahagian yang lain. Dan kamu mempunyai tempat kediaman dan kesenangan (tempat mencari kehidupan) di muka bumi sampai waktu yang telah ditentukan.”"
+	},
+	{
+		"aid": "25",
+		"p": "cp",
+		"r": "2",
+		"text": "Allah berfirman, “Di bumi itu kamu hidup dan di bumi itu kamu mati, dan dari bumi itu (pula) kamu akan dibangkitkan.”"
+	},
+	{
+		"aid": "26",
+		"p": "op",
+		"text": "Hai anak Adam, sesungguhnya Kami telah menurunkan kepadamu pakaian untuk menutupi auratmu dan pakaian indah untuk perhiasan. Dan pakaian takwa itulah yang paling baik. Yang demikian itu adalah sebahagian dari tanda-tanda kekuasaan Allah, mudah-mudahan mereka selalu ingat."
+	},
+	{
+		"aid": "27",
+		"p": "nl",
+		"text": "Hai anak Adam, janganlah sekali-kali kamu dapat ditipu oleh setan sebagaimana ia telah mengeluarkan kedua ibu ayahmu dari surga, ia menanggalkan dari keduanya pakaiannya untuk memperlihatkan kepada keduanya auratnya. Sesungguhnya ia dan pengikut-pengikutnya melihat kamu dari suatu tempat yang kamu tidak bisa melihat mereka. Sesungguhnya Kami telah menjadikan setan-setan itu pemimpin-pemimpin bagi orang-orang yang tidak beriman."
+	},
+	{
+		"aid": "28",
+		"p": "nl",
+		"text": "Dan apabila mereka melakukan perbuatan keji, mereka berkata, “Kami mendapati nenek moyang kami mengerjakan yang demikian itu, dan Allah menyuruh kami mengerjakannya.” Katakanlah, “Sesungguhnya Allah tidak menyuruh (mengerjakan) perbuatan yang keji. Mengapa kamu mengada-adakan terhadap Allah apa yang tidak kamu ketahui?”"
+	},
+	{
+		"aid": "29",
+		"p": "nlcp",
+		"text": "Katakanlah, “Tuhanku menyuruh menjalankan keadilan,” Dan (katakanlah), “luruskanlah muka (diri) mu di setiap salat dan sembahlah Allah dengan mengikhlaskan ketaatanmu kepada-Nya. Sebagaimana Dia telah menciptakan kamu pada permulaan (demikian pulalah) kamu akan kembali kepada-Nya).”"
+	},
+	{
+		"aid": "30",
+		"text": "Sebahagian diberi-Nya petunjuk dan sebahagian lagi telah pasti kesesatan bagi mereka. Sesungguhnya mereka menjadikan setan-setan pelindung (mereka) selain Allah, dan mereka mengira bahwa mereka mendapat petunjuk."
+	},
+	{
+		"aid": "31",
+		"r": "3",
+		"text": "Hai anak Adam, pakailah pakaianmu yang indah di setiap (memasuki) mesjid, makan dan minumlah, dan janganlah berlebih-lebihan. Sesungguhnya Allah tidak menyukai orang-orang yang berlebih-lebihan."
+	},
+	{
+		"aid": "32",
+		"text": "Katakanlah, “Siapakah yang mengharamkan perhiasan dari Allah yang telah dikeluarkan-Nya untuk hamba-hamba-Nya dan (siapa pulakah yang mengharamkan) rezeki yang baik?” Katakanlah, “Semuanya itu (disediakan) bagi orang-orang yang beriman dalam kehidupan dunia, khusus (untuk mereka saja) di hari kiamat.” Demikianlah Kami menjelaskan ayat-ayat itu bagi orang-orang yang mengetahui."
+	},
+	{
+		"aid": "33",
+		"text": "Katakanlah, “Tuhanku hanya mengharamkan perbuatan yang keji, baik yang nampak atau pun yang tersembunyi, dan perbuatan dosa, melanggar hak manusia tanpa alasan yang benar, (mengharamkan) mempersekutukan Allah dengan sesuatu yang Allah tidak menurunkan hujjah untuk itu dan (mengharamkan) mengada-adakan terhadap Allah apa yang tidak kamu ketahui.”"
+	},
+	{
+		"aid": "34",
+		"text": "Tiap-tiap umat mempunyai batas waktu; maka apabila telah datang waktunya mereka tidak dapat mengundurkannya barang sesaat pun dan tidak dapat (pula) memajukannya."
+	},
+	{
+		"aid": "35",
+		"p": "op",
+		"text": "Hai anak-anak Adam, jika datang kepadamu rasul-rasul daripada kamu yang menceritakan kepadamu ayat-ayat-Ku, maka barang siapa yang bertakwa dan mengadakan perbaikan, tidaklah ada kekhawatiran terhadap mereka dan tidak (pula) mereka bersedih hati."
+	},
+	{
+		"aid": "36",
+		"text": "Dan orang-orang yang mendustakan ayat-ayat Kami dan menyombongkan diri terhadapnya, mereka itu penghuni-penghuni neraka; mereka kekal di dalamnya."
+	},
+	{
+		"aid": "37",
+		"p": "nl",
+		"text": "Maka siapakah yang lebih zalim daripada orang yang membuat-buat dusta terhadap Allah atau mendustakan ayat-ayat-Nya? Orang-orang itu akan memperoleh bahagian yang telah ditentukan untuknya dalam Kitab (Lohmahfuz); hingga bila datang kepada mereka utusan-utusan Kami (malaikat) untuk mengambil nyawanya, (di waktu itu) utusan Kami bertanya, “Di mana (berhala-berhala) yang biasa kamu sembah selain Allah?” Orang-orang musyrik itu menjawab, “Berhala-berhala itu semuanya telah lenyap dari kami”, dan mereka mengakui terhadap diri mereka bahwa mereka adalah orang-orang yang kafir."
+	},
+	{
+		"aid": "38",
+		"p": "nl",
+		"text": "Allah berfirman, “Masuklah kamu sekalian ke dalam neraka bersama umat-umat jin dan manusia yang telah terdahulu sebelum kamu. Setiap suatu umat masuk (ke dalam neraka), dia mengutuk kawannya (yang menyesatkannya); sehingga apabila mereka masuk semuanya berkatalah orang-orang yang masuk kemudian di antara mereka kepada orang-orang yang masuk terdahulu, “Ya Tuhan kami, mereka telah menyesatkan kami, sebab itu datangkanlah kepada mereka siksaan yang berlipat ganda dari neraka.” Allah berfirman, “Masing-masing mendapat (siksaan), yang berlipat ganda, akan tetapi kamu tidak mengetahui.”"
+	},
+	{
+		"aid": "39",
+		"p": "nlcp",
+		"r": "4",
+		"text": "Dan berkata orang-orang yang masuk terdahulu di antara mereka kepada orang-orang yang masuk kemudian, “Kamu tidak mempunyai kelebihan sedikit pun atas kami, maka rasakanlah siksaan karena perbuatan yang telah kamu lakukan.”"
+	},
+	{
+		"aid": "40",
+		"p": "op",
+		"text": "Sesungguhnya orang-orang yang mendustakan ayat-ayat Kami dan menyombongkan diri terhadapnya, sekali-kali tidak akan dibukakan bagi mereka pintu-pintu langit dan tidak (pula) mereka masuk surga, hingga unta masuk ke lubang jarum. Demikianlah Kami memberi pembalasan kepada orang-orang yang berbuat kejahatan."
+	},
+	{
+		"aid": "41",
+		"text": "Mereka mempunyai tikar tidur dari api neraka dan di atas mereka ada selimut (api neraka). Demikianlah Kami memberi balasan kepada orang-orang yang zalim."
+	},
+	{
+		"aid": "42",
+		"p": "nl",
+		"text": "Dan orang-orang yang beriman dan mengerjakan amal-amal yang saleh, Kami tidak memikulkan kewajiban kepada diri seseorang melainkan sekedar kesanggupannya, mereka itulah penghuni-penghuni surga; mereka kekal di dalamnya."
+	},
+	{
+		"aid": "43",
+		"text": "Dan Kami cabut segala macam dendam yang berada di dalam dada mereka; mengalir di bawah mereka sungai-sungai dan mereka berkata, “Segala puji bagi Allah yang telah menunjuki kami kepada (surga) ini. Dan kami sekali-kali tidak akan mendapat petunjuk kalau Allah tidak memberi kami petunjuk. Sesungguhnya telah datang rasul-rasul Tuhan kami, membawa kebenaran.” Dan diserukan kepada mereka, “Itulah surga yang diwariskan kepadamu, disebabkan apa yang dahulu kamu kerjakan.”"
+	},
+	{
+		"aid": "44",
+		"p": "nl",
+		"text": "Dan penghuni-penghuni surga berseru kepada penghuni-penghuni neraka (dengan mengatakan), “Sesungguhnya kami dengan sebenarnya telah memperoleh apa yang Tuhan kami menjanjikannya kepada kami. Maka apakah kamu telah memperoleh dengan sebenarnya apa (azab) yang Tuhan kamu menjanjikannya (kepadamu)?” Mereka (penduduk neraka) menjawab, “Betul.” Kemudian seorang penyeru (malaikat) mengumumkan di antara kedua golongan itu, “Kutukan Allah ditimpakan kepada orang-orang yang zalim,"
+	},
+	{
+		"aid": "45",
+		"p": "cp",
+		"text": "(yaitu) orang-orang yang menghalang-halangi (manusia) dari jalan Allah dan menginginkan agar jalan itu menjadi bengkok, dan mereka kafir kepada kehidupan akhirat.”"
+	},
+	{
+		"aid": "46",
+		"p": "op",
+		"text": "Dan di antara keduanya (penghuni surga dan neraka) ada batas; dan di atas A`raaf itu ada orang-orang yang mengenal masing-masing dari dua golongan itu dengan tanda-tanda mereka. Dan mereka menyeru penduduk surga: ‘Salaamun `alaikum’. Mereka belum lagi memasukinya, sedang mereka ingin segera (memasukinya)."
+	},
+	{
+		"aid": "47",
+		"p": "cp",
+		"r": "5",
+		"text": "Dan apabila pandangan mereka dialihkan ke arah penghuni neraka, mereka berkata, “Ya Tuhan kami, janganlah Engkau tempatkan kami bersama-sama orang-orang yang zalim itu.”"
+	},
+	{
+		"aid": "48",
+		"p": "op",
+		"text": "Dan orang-orang yang di atas A`raaf memanggil beberapa orang (pemuka-pemuka orang kafir) yang mereka mengenalnya dengan tanda-tandanya dengan mengatakan, “Harta yang kamu kumpulkan dan apa yang selalu kamu sombongkan itu, tidaklah memberi manfaat kepadamu.”"
+	},
+	{
+		"aid": "49",
+		"p": "nl",
+		"text": "(Orang-orang di atas A`raaf bertanya kepada penghuni neraka), “Itukah orang-orang yang kamu telah bersumpah bahwa mereka tidak akan mendapat rahmat Allah?” (Kepada orang mukmin itu dikatakan), “Masuklah ke dalam surga, tidak ada kekhawatiran terhadapmu dan tidak (pula) kamu bersedih hati.”"
+	},
+	{
+		"aid": "50",
+		"p": "nl",
+		"text": "Dan penghuni neraka menyeru penghuni surga, “Limpahkanlah kepada kami sedikit air atau makanan yang telah dirizekikan Allah kepadamu.” Mereka (penghuni surga) menjawab, “Sesungguhnya Allah telah mengharamkan keduanya itu atas orang-orang kafir,"
+	},
+	{
+		"aid": "51",
+		"p": "cp",
+		"text": "(yaitu) orang-orang yang menjadikan agama mereka sebagai main-main dan senda gurau, dan kehidupan dunia telah menipu mereka.” Maka pada hari (kiamat) ini, Kami melupakan mereka sebagaimana mereka melupakan pertemuan mereka dengan hari ini, dan (sebagaimana) mereka selalu mengingkari ayat-ayat Kami."
+	},
+	{
+		"aid": "52",
+		"p": "op",
+		"text": "Dan sesungguhnya Kami telah mendatangkan sebuah Kitab (Al Qur`an) kepada mereka yang Kami telah menjelaskannya atas dasar pengetahuan Kami; menjadi petunjuk dan rahmat bagi orang-orang yang beriman."
+	},
+	{
+		"aid": "53",
+		"p": "cp",
+		"r": "6",
+		"text": "Tiadalah mereka menunggu-nunggu kecuali (terlaksananya kebenaran) Al Qur`an itu. Pada hari datangnya kebenaran pemberitaan Al Qur`an itu, berkatalah orang-orang yang melupakannya sebelum itu, “Sesungguhnya telah datang rasul-rasul Tuhan kami membawa yang hak, maka adakah bagi kami pemberi syafaat yang akan memberi syafaat bagi kami, atau dapatkah kami dikembalikan (ke dunia) sehingga kami dapat beramal yang lain dari yang pernah kami amalkan?” Sungguh mereka telah merugikan diri mereka sendiri dan telah lenyaplah dari mereka tuhan-tuhan yang mereka ada-adakan."
+	},
+	{
+		"aid": "54",
+		"p": "op",
+		"text": "Sesungguhnya Tuhan kamu ialah Allah yang telah menciptakan langit dan bumi dalam enam masa, lalu Dia bersemayam di atas `Arsy. Dia menutupkan malam kepada siang yang mengikutinya dengan cepat, dan (diciptakan-Nya pula) matahari, bulan dan bintang-bintang (masing-masing) tunduk kepada perintah-Nya. Ingatlah, menciptakan dan memerintah hanyalah hak Allah. Maha Suci Allah, Tuhan semesta alam."
+	},
+	{
+		"aid": "55",
+		"text": "Berdoalah kepada Tuhanmu dengan berendah diri dan suara yang lembut. Sesungguhnya Allah tidak menyukai orang-orang yang melampaui batas."
+	},
+	{
+		"aid": "56",
+		"p": "nlcp",
+		"text": "Dan janganlah kamu membuat kerusakan di muka bumi, sesudah (Allah) memperbaikinya dan berdoalah kepada-Nya dengan rasa takut (tidak akan diterima) dan harapan (akan dikabulkan). Sesungguhnya rahmat Allah amat dekat kepada orang-orang yang berbuat baik."
+	},
+	{
+		"aid": "57",
+		"p": "op",
+		"text": "Dan Dialah yang meniupkan angin sebagai pembawa berita gembira sebelum kedatangan rahmat-Nya (hujan); hingga apabila angin itu telah membawa awan mendung, Kami halau ke suatu daerah yang tandus, lalu Kami turunkan hujan di daerah itu, maka Kami keluarkan dengan sebab hujan itu berbagai macam buah-buahan. Seperti itulah Kami membangkitkan orang-orang yang telah mati, mudah-mudahan kamu mengambil pelajaran."
+	},
+	{
+		"aid": "58",
+		"p": "nlcp",
+		"r": "7",
+		"text": "Dan tanah yang baik, tanaman-tanamannya tumbuh subur dengan seizin Allah; dan tanah yang tidak subur, tanaman-tanamannya hanya tumbuh merana. Demikianlah Kami mengulangi tanda-tanda kebesaran (Kami) bagi orang-orang yang bersyukur."
+	},
+	{
+		"aid": "59",
+		"p": "op",
+		"text": "Sesungguhnya Kami telah mengutus Nuh kepada kaumnya lalu ia berkata, “Wahai kaumku sembahlah Allah, sekali-kali tak ada Tuhan bagimu selain-Nya. Sesungguhnya (kalau kamu tidak menyembah Allah), aku takut kamu akan ditimpa azab hari yang besar (kiamat).”"
+	},
+	{
+		"aid": "60",
+		"p": "nl",
+		"text": "Pemuka-pemuka dari kaumnya berkata, “Sesungguhnya kami memandang kamu berada dalam kesesatan yang nyata.”"
+	},
+	{
+		"aid": "61",
+		"text": "Nuh menjawab, “Hai kaumku, tak ada padaku kesesatan sedikit pun tetapi aku adalah utusan dari Tuhan semesta alam."
+	},
+	{
+		"aid": "62",
+		"text": "Aku sampaikan kepadamu amanat-amanah Tuhanku dan aku memberi nasihat kepadamu, dan aku mengetahui dari Allah apa yang tidak kamu ketahui."
+	},
+	{
+		"aid": "63",
+		"text": "Dan apakah kamu (tidak percaya) dan heran bahwa datang kepada kamu peringatan dari Tuhanmu dengan perantaraan seorang laki-laki dari golonganmu agar dia memberi peringatan kepadamu dan mudah-mudahan kamu bertakwa dan supaya kamu mendapat rahmat?”"
+	},
+	{
+		"aid": "64",
+		"p": "nlcp",
+		"r": "8",
+		"text": "Maka mereka mendustakan Nuh, kemudian Kami selamatkan dia dan orang-orang yang bersamanya di dalam bahtera, dan Kami tenggelamkan orang-orang yang mendustakan ayat-ayat Kami. Sesungguhnya mereka adalah kaum yang buta (mata hatinya)."
+	},
+	{
+		"aid": "65",
+		"p": "op",
+		"text": "Dan (Kami telah mengutus) kepada kaum Ad saudara mereka, Hud. Ia berkata, “Hai kaumku, sembahlah Allah, sekali-kali tidak ada Tuhan bagimu selain-Nya. Maka mengapa kamu tidak bertakwa kepada-Nya?”"
+	},
+	{
+		"aid": "66",
+		"p": "nl",
+		"text": "Pemuka-pemuka yang kafir dari kaumnya berkata, “Sesungguhnya kami benar-benar memandang kamu dalam keadaan kurang akal dan sesungguhnya kami menganggap kamu termasuk orang-orang yang berdusta.”"
+	},
+	{
+		"aid": "67",
+		"text": "Hud berkata, “Hai kaumku, tidak ada padaku kekurangan akal sedikit pun, tetapi aku ini adalah utusan dari Tuhan semesta alam."
+	},
+	{
+		"aid": "68",
+		"text": "Aku menyampaikan amanat-amanah Tuhanku kepadamu dan aku hanyalah pemberi nasihat yang terpercaya bagimu."
+	},
+	{
+		"aid": "69",
+		"text": "Apakah kamu (tidak percaya) dan heran bahwa datang kepadamu peringatan dari Tuhanmu yang dibawa oleh seorang laki-laki di antaramu untuk memberi peringatan kepadamu? Dan ingatlah oleh kamu sekalian di waktu Allah menjadikan kamu sebagai pengganti-pengganti (yang berkuasa) sesudah lenyapnya kaum Nuh, dan Tuhan telah melebihkan kekuatan tubuh dan perawakanmu (dari Kaum Nuh itu). Maka ingatlah nikmat-nikmat Allah supaya kamu mendapat keberuntungan.”"
+	},
+	{
+		"aid": "70",
+		"p": "nl",
+		"text": "Mereka berkata, “Apakah kamu datang kepada kami, agar kami hanya menyembah Allah saja dan meninggalkan apa yang biasa disembah oleh ayahk-ayahk kami? Maka datangkanlah azab yang kamu ancamkan kepada kami jika kamu termasuk orang-orang yang benar.”"
+	},
+	{
+		"aid": "71",
+		"text": "Ia berkata, “Sungguh sudah pasti kamu akan ditimpa azab dan kemarahan dari Tuhanmu. Apakah kamu sekalian hendak berbantah dengan aku tentang nama-nama (berhala) yang kamu dan nenek moyangmu menamakannya, padahal Allah sekali-kali tidak menurunkan hujjah untuk itu? Maka tunggulah (azab itu), sesungguhnya aku juga termasuk orang yang menunggu bersama kamu.”"
+	},
+	{
+		"aid": "72",
+		"p": "nlcp",
+		"r": "9",
+		"text": "Maka Kami selamatkan Hud beserta orang-orang yang bersamanya dengan rahmat yang besar dari Kami, dan kami tumpas orang-orang yang mendustakan ayat-ayat Kami, dan tiadalah mereka orang-orang yang beriman."
+	},
+	{
+		"aid": "73",
+		"p": "op",
+		"text": "Dan (Kami telah mengutus) kepada kaum Tsamud saudara mereka, Saleh. Ia berkata, “Hai kaumku, sembahlah Allah, sekali-kali tidak ada Tuhan bagimu selain-Nya. Sesungguhnya telah datang bukti yang nyata kepadamu dari Tuhanmu. Unta betina Allah ini menjadi tanda bagimu, maka biarkanlah dia makan di bumi Allah, dan janganlah kamu mengganggunya, dengan gangguan apa pun, (yang karenanya) kamu akan ditimpa siksaan yang pedih."
+	},
+	{
+		"aid": "74",
+		"text": "Dan ingatlah olehmu di waktu Tuhan menjadikan kamu pengganti-pengganti (yang berkuasa) sesudah kaum `Aad dan memberikan tempat bagimu di bumi. Kamu dirikan istana-istana di tanah-tanahnya yang datar dan kamu pahat gunung-gunungnya untuk dijadikan rumah; maka ingatlah nikmat-nikmat Allah dan janganlah kamu merajalela di muka bumi membuat kerusakan.”"
+	},
+	{
+		"aid": "75",
+		"p": "nl",
+		"text": "Pemuka-pemuka yang menyombongkan diri di antara kaumnya berkata kepada orang-orang yang dianggap lemah yang telah beriman di antara mereka, “Tahukah kamu bahwa Saleh diutus (menjadi rasul) oleh Tuhannya?.” Mereka menjawab, “Sesungguhnya kami beriman kepada wahyu, yang Saleh diutus untuk menyampaikannya.”"
+	},
+	{
+		"aid": "76",
+		"text": "Orang-orang yang menyombongkan diri berkata, “Sesungguhnya kami adalah orang yang tidak percaya kepada apa yang kamu imani itu.”"
+	},
+	{
+		"aid": "77",
+		"p": "nl",
+		"text": "Kemudian mereka sembelih unta betina itu, dan mereka berlaku angkuh terhadap perintah Tuhan. Dan mereka berkata, “Hai Saleh, datangkanlah apa yang kamu ancamkan itu kepada kami, jika (betul) kamu termasuk orang-orang yang diutus (Allah).”"
+	},
+	{
+		"aid": "78",
+		"text": "Karena itu mereka ditimpa gempa, maka jadilah mereka mayat-mayat yang bergelimpangan di tempat tinggal mereka."
+	},
+	{
+		"aid": "79",
+		"p": "nlcp",
+		"text": "Maka Saleh meninggalkan mereka seraya berkata, “Hai kaumku sesungguhnya aku telah menyampaikan kepadamu amanat Tuhanku, dan aku telah memberi nasihat kepadamu, tetapi kamu tidak menyukai orang-orang yang memberi nasihat.”"
+	},
+	{
+		"aid": "80",
+		"p": "op",
+		"text": "Dan (Kami juga telah mengutus) Luth (kepada kaumnya). (Ingatlah) tatkala dia berkata kepada kaumnya, “Mengapa kamu mengerjakan perbuatan faahisyah itu, yang belum pernah dikerjakan oleh seorang pun (di dunia ini) sebelummu?"
+	},
+	{
+		"aid": "81",
+		"text": "Sesungguhnya kamu mendatangi lelaki untuk melepaskan nafsumu (kepada mereka), bukan kepada wanita, malah kamu ini adalah kaum yang melampaui batas.”"
+	},
+	{
+		"aid": "82",
+		"p": "nl",
+		"text": "Jawab kaumnya tidak lain hanya mengatakan, “Usirlah mereka (Luth dan pengikut-pengikutnya) dari kotamu ini; sesungguhnya mereka adalah orang-orang yang berpura-pura menyucikan diri.”"
+	},
+	{
+		"aid": "83",
+		"text": "Kemudian Kami selamatkan dia dan pengikut-pengikutnya kecuali istrinya; dia termasuk orang-orang yang tertinggal (dibinasakan)."
+	},
+	{
+		"aid": "84",
+		"p": "cp",
+		"r": "10",
+		"text": "Dan Kami turunkan kepada mereka hujan (batu); maka perhatikanlah bagaimana kesudahan orang-orang yang berdosa itu."
+	},
+	{
+		"aid": "85",
+		"p": "op",
+		"text": "Dan (Kami telah mengutus) kepada penduduk Madyan saudara mereka, Syuaib. Ia berkata, “Hai kaumku, sembahlah Allah, sekali-kali tidak ada Tuhan bagimu selain-Nya. Sesungguhnya telah datang kepadamu bukti yang nyata dari Tuhanmu. Maka sempurnakanlah takaran dan timbangan dan janganlah kamu kurangkan bagi manusia barang-barang takaran dan timbangannya, dan janganlah kamu membuat kerusakan di muka bumi sesudah Tuhan memperbaikinya. Yang demikian itu lebih baik bagimu jika betul-betul kamu orang-orang yang beriman."
+	},
+	{
+		"aid": "86",
+		"text": "Dan janganlah kamu duduk di tiap-tiap jalan dengan menakut-nakuti dan menghalang-halangi orang yang beriman dari jalan Allah, dan menginginkan agar jalan Allah itu menjadi bengkok. Dan ingatlah di waktu dahulunya kamu berjumlah sedikit, lalu Allah memperbanyak jumlah kamu. Dan perhatikanlah bagaimana kesudahan orang-orang yang berbuat kerusakan."
+	},
+	{
+		"aid": "87",
+		"text": "Jika ada segolongan daripada kamu beriman kepada apa yang aku diutus untuk menyampaikannya dan ada (pula) segolongan yang tidak beriman, maka bersabarlah, hingga Allah menetapkan hukumnya di antara kita; dan Dia adalah Hakim yang sebaik-baiknya.”"
+	},
+	{
+		"aid": "88",
+		"p": "nl",
+		"text": "Pemuka-pemuka dari kaum Syuaib yang menyombongkan diri berkata, “Sesungguhnya kami akan mengusir kamu hai Syuaib dan orang-orang yang beriman bersamamu dari kota kami, kecuali kamu kembali kepada agama kami.” Berkata Syuaib, “Dan apakah (kamu akan mengusir kami), kendati pun kami tidak menyukainya?"
+	},
+	{
+		"aid": "89",
+		"text": "Sungguh kami mengada-adakan kebohongan yang besar terhadap Allah, jika kami kembali kepada agamamu, sesudah Allah melepaskan kami darinya. Dan tidaklah patut kami kembali kepadanya, kecuali jika Allah, Tuhan kami menghendaki (nya). Pengetahuan Tuhan kami meliputi segala sesuatu. Kepada Allah sajalah kami bertawakal. Ya Tuhan kami, berilah keputusan antara kami dan kaum kami dengan hak (adil) dan Engkaulah Pemberi keputusan yang sebaik-baiknya.”"
+	},
+	{
+		"aid": "90",
+		"p": "nl",
+		"text": "Pemuka-pemuka kaum Syuaib yang kafir berkata (kepada sesamanya), “Sesungguhnya jika kamu mengikuti Syuaib, tentu kamu jika berbuat demikian (menjadi) orang-orang yang merugi.”"
+	},
+	{
+		"aid": "91",
+		"text": "Kemudian mereka ditimpa gempa, maka jadilah mereka mayat-mayat yang bergelimpangan di dalam rumah-rumah mereka,"
+	},
+	{
+		"aid": "92",
+		"text": "(yaitu) orang-orang yang mendustakan Syuaib seolah-olah mereka belum pernah berdiam di kota itu; orang-orang yang mendustakan Syuaib mereka itulah orang-orang yang merugi."
+	},
+	{
+		"aid": "93",
+		"p": "nlcp",
+		"r": "11",
+		"text": "Maka Syuaib meninggalkan mereka seraya berkata, “Hai kaumku, sesungguhnya aku telah menyampaikan kepadamu amanat-amanah Tuhanku dan aku telah memberi nasihat kepadamu. Maka bagaimana aku akan bersedih hati terhadap orang-orang yang kafir?”"
+	},
+	{
+		"aid": "94",
+		"p": "op",
+		"text": "Kami tidaklah mengutus seseorang nabi pun kepada sesuatu negeri, (lalu penduduknya mendustakan nabi itu), melainkan Kami timpakan kepada penduduknya kesempitan dan penderitaan supaya mereka tunduk dengan merendahkan diri."
+	},
+	{
+		"aid": "95",
+		"p": "cp",
+		"text": "Kemudian Kami ganti kesusahan itu dengan kesenangan hingga keturunan dan harta mereka bertambah banyak, dan mereka berkata, “Sesungguhnya nenek moyang kami pun telah merasai penderitaan dan kesenangan”, maka Kami timpakan siksaan atas mereka dengan sekonyong-konyong sedang mereka tidak menyadarinya."
+	},
+	{
+		"aid": "96",
+		"p": "op",
+		"text": "Jika sekiranya penduduk negeri-negeri beriman dan bertakwa, pastilah Kami akan melimpahkan kepada mereka berkah dari langit dan bumi, tetapi mereka mendustakan (ayat-ayat Kami) itu, maka Kami siksa mereka disebabkan perbuatannya."
+	},
+	{
+		"aid": "97",
+		"text": "Maka apakah penduduk negeri-negeri itu merasa aman dari kedatangan siksaan Kami kepada mereka di malam hari di waktu mereka sedang tidur?"
+	},
+	{
+		"aid": "98",
+		"text": "Atau apakah penduduk negeri-negeri itu merasa aman dari kedatangan siksaan Kami kepada mereka di waktu matahari sepenggalahan naik ketika mereka sedang bermain?"
+	},
+	{
+		"aid": "99",
+		"p": "cp",
+		"r": "12",
+		"text": "Maka apakah mereka merasa aman dari azab Allah (yang tidak terduga-duga)? Tiadalah yang merasa aman dari azab Allah kecuali orang-orang yang merugi."
+	},
+	{
+		"aid": "100",
+		"p": "op",
+		"text": "Dan apakah belum jelas bagi orang-orang yang mempusakai suatu negeri sesudah (lenyap) penduduknya, bahwa kalau Kami menghendaki tentu Kami azab mereka karena dosa-dosanya; dan Kami kunci mati hati mereka sehingga mereka tidak dapat mendengar (pelajaran lagi)?"
+	},
+	{
+		"aid": "101",
+		"text": "Negeri-negeri (yang telah Kami binasakan) itu, Kami ceritakan sebagian dari berita-beritanya kepadamu. Dan sungguh telah datang kepada mereka rasul-rasul mereka dengan membawa bukti-bukti yang nyata, maka mereka (juga) tidak beriman kepada apa yang dahulunya mereka telah mendustakannya. Demikianlah Allah mengunci mati hati orang-orang kafir."
+	},
+	{
+		"aid": "102",
+		"p": "cp",
+		"text": "Dan Kami tidak mendapati kebanyakan mereka memenuhi janji. Sesungguhnya Kami mendapati kebanyakan mereka orang-orang yang fasik."
+	},
+	{
+		"aid": "103",
+		"p": "op",
+		"text": "Kemudian Kami utus Musa sesudah rasul-rasul itu dengan membawa ayat-ayat Kami kepada Fir`aun dan pemuka-pemuka kaumnya, lalu mereka mengingkari ayat-ayat itu. Maka perhatikanlah bagaimana akibat orang-orang yang membuat kerusakan."
+	},
+	{
+		"aid": "104",
+		"p": "nl",
+		"text": "Dan Musa berkata, “Hai Fir`aun, sesungguhnya aku ini adalah seorang utusan dari Tuhan semesta alam,"
+	},
+	{
+		"aid": "105",
+		"text": "wajib atasku tidak mengatakan sesuatu terhadap Allah, kecuali yang hak. Sesungguhnya aku datang kepadamu dengan membawa bukti yang nyata dari Tuhanmu, maka lepaskanlah Bani Israil (pergi) bersama aku.”"
+	},
+	{
+		"aid": "106",
+		"p": "nl",
+		"text": "Fir`aun menjawab, “Jika benar kamu membawa sesuatu bukti, maka datangkanlah bukti itu jika (betul) kamu termasuk orang-orang yang benar.”"
+	},
+	{
+		"aid": "107",
+		"text": "Maka Musa menjatuhkan tongkatnya, lalu seketika itu juga tongkat itu menjadi ular yang sebenarnya."
+	},
+	{
+		"aid": "108",
+		"p": "cp",
+		"r": "13",
+		"text": "Dan ia mengeluarkan tangannya, maka ketika itu juga tangan itu menjadi putih bercahaya (kelihatan) oleh orang-orang yang melihatnya."
+	},
+	{
+		"aid": "109",
+		"p": "op",
+		"text": "Pemuka-pemuka kaum Fir`aun berkata, “Sesungguhnya Musa ini adalah ahli sihir yang pandai,"
+	},
+	{
+		"aid": "110",
+		"text": "yang bermaksud hendak mengeluarkan kamu dari negerimu.” (Fir`aun berkata), “Maka apakah yang kamu anjurkan?”"
+	},
+	{
+		"aid": "111",
+		"text": "Pemuka-pemuka itu menjawab, “Beritangguhlah dia dan saudaranya serta kirimlah ke kota-kota beberapa orang yang akan mengumpulkan (ahli-ahli sihir),"
+	},
+	{
+		"aid": "112",
+		"p": "cp",
+		"text": "supaya mereka membawa kepadamu semua ahli sihir yang pandai.”"
+	},
+	{
+		"aid": "113",
+		"p": "op",
+		"text": "Dan beberapa ahli sihir itu datang kepada Fir`aun mengatakan, “(Apakah) sesungguhnya kami akan mendapat upah, jika kamilah yang menang?”"
+	},
+	{
+		"aid": "114",
+		"text": "Fir`aun menjawab, “Ya, dan sesungguhnya kamu benar-benar akan termasuk orang-orang yang dekat (kepadaku).”"
+	},
+	{
+		"aid": "115",
+		"p": "nl",
+		"text": "Ahli-ahli sihir berkata, “Hai Musa, kamukah yang akan melemparkan lebih dahulu, ataukah kami yang akan melemparkan?”"
+	},
+	{
+		"aid": "116",
+		"text": "Musa menjawab, “Lemparkanlah (lebih dahulu)!” Maka tatkala mereka melemparkan, mereka menyulap mata orang dan menjadikan orang banyak itu takut, serta mereka mendatangkan sihir yang besar (menakjubkan)."
+	},
+	{
+		"aid": "117",
+		"p": "nl",
+		"text": "Dan Kami wahyukan kepada Musa, “Lemparkanlah tongkatmu!” Maka sekonyong-konyong tongkat itu menelan apa yang mereka sulapkan."
+	},
+	{
+		"aid": "118",
+		"text": "Karena itu nyatalah yang benar dan batallah yang selalu mereka kerjakan."
+	},
+	{
+		"aid": "119",
+		"text": "Maka mereka kalah di tempat itu dan jadilah mereka orang-orang yang hina."
+	},
+	{
+		"aid": "120",
+		"text": "Dan ahli-ahli sihir itu serta merta meniarapkan diri dengan bersujud."
+	},
+	{
+		"aid": "121",
+		"text": "Mereka berkata, “Kami beriman kepada Tuhan semesta alam,"
+	},
+	{
+		"aid": "122",
+		"text": "(yaitu) Tuhan Musa dan Harun.”"
+	},
+	{
+		"aid": "123",
+		"p": "nl",
+		"text": "Fir`aun berkata, “Apakah kamu beriman kepadanya sebelum aku memberi izin kepadamu?, sesungguhnya (perbuatan) ini adalah suatu muslihat yang telah kamu rencanakan di dalam kota ini, untuk mengeluarkan penduduknya dari padanya; maka kelak kamu akan mengetahui (akibat perbuatanmu ini);"
+	},
+	{
+		"aid": "124",
+		"text": "demi, sesungguhnya aku akan memotong tangan dan kakimu dengan bersilang secara bertimbal balik, kemudian sungguh-sungguh aku akan menyalib kamu semuanya.”"
+	},
+	{
+		"aid": "125",
+		"p": "nl",
+		"text": "Ahli-ahli sihir itu menjawab, “Sesungguhnya kepada Tuhanlah kami kembali."
+	},
+	{
+		"aid": "126",
+		"p": "cp",
+		"r": "14",
+		"text": "Dan kamu tidak menyalahkan kami, melainkan karena kami telah beriman kepada ayat-ayat Tuhan kami ketika ayat-ayat itu datang kepada kami.” (Mereka berdoa), “Ya Tuhan kami, limpahkanlah kesabaran kepada kami dan wafatkanlah kami dalam keadaan berserah diri (kepada-Mu).”"
+	},
+	{
+		"aid": "127",
+		"p": "op",
+		"text": "Berkatalah pembesar-pembesar dari kaum Fir`aun (kepada Fir`aun), “Apakah kamu membiarkan Musa dan kaumnya untuk membuat kerusakan di negeri ini (Mesir) dan meninggalkan kamu serta tuhan-tuhanmu?” Fir`aun menjawab, “Akan kita bunuh anak-anak lelaki mereka dan kita biarkan hidup perempuan-perempuan mereka dan sesungguhnya kita berkuasa penuh di atas mereka.”"
+	},
+	{
+		"aid": "128",
+		"p": "nl",
+		"text": "Musa berkata kepada kaumnya, “Mohonlah pertolongan kepada Allah dan bersabarlah; sesungguhnya bumi (ini) kepunyaan Allah; dipusakakan-Nya kepada siapa yang dikehendaki-Nya dari hamba-hamba-Nya. Dan kesudahan yang baik adalah bagi orang-orang yang bertakwa.”"
+	},
+	{
+		"aid": "129",
+		"p": "nlcp",
+		"r": "15",
+		"text": "Kaum Musa berkata, “Kami telah ditindas (oleh Fir`aun) sebelum kamu datang kepada kami dan sesudah kamu datang. Musa menjawab, “Mudah-mudahan Allah membinasakan musuhmu dan menjadikan kamu khalifah di bumi (Nya), maka Allah akan melihat bagaimana perbuatanmu."
+	},
+	{
+		"aid": "130",
+		"p": "op",
+		"text": "Dan sesungguhnya Kami telah menghukum (Fir`aun dan) kaumnya dengan (mendatangkan) musim kemarau yang panjang dan kekurangan buah-buahan, supaya mereka mengambil pelajaran."
+	},
+	{
+		"aid": "131",
+		"text": "Kemudian apabila datang kepada mereka kemakmuran, mereka berkata, “Ini adalah karena (usaha) kami.” Dan jika mereka ditimpa kesusahan, mereka lemparkan sebab kesialan itu kepada Musa dan orang-orang yang besertanya. Ketahuilah, sesungguhnya kesialan mereka itu adalah ketetapan dari Allah, akan tetapi kebanyakan mereka tidak mengetahui."
+	},
+	{
+		"aid": "132",
+		"p": "nl",
+		"text": "Mereka berkata, “Bagaimanapun kamu mendatangkan keterangan kepada kami untuk menyihir kami dengan keterangan itu, maka kami sekali-kali tidak akan beriman kepadamu.”"
+	},
+	{
+		"aid": "133",
+		"text": "Maka Kami kirimkan kepada mereka topan, belalang, kutu, katak dan darah sebagai bukti yang jelas, tetapi mereka tetap menyombongkan diri dan mereka adalah kaum yang berdosa."
+	},
+	{
+		"aid": "134",
+		"p": "nl",
+		"text": "Dan ketika mereka ditimpa azab (yang telah diterangkan itu) mereka pun berkata, “Hai Musa, mohonkanlah untuk kami kepada Tuhanmu dengan (perantaraan) kenabian yang diketahui Allah ada pada sisimu. Sesungguhnya jika kamu dapat menghilangkan azab itu dari kami, pasti kami akan beriman kepadamu dan akan kami biarkan Bani Israil pergi bersamamu.”"
+	},
+	{
+		"aid": "135",
+		"text": "Maka setelah kami hilangkan azab itu dari mereka hingga batas waktu yang mereka sampai kepadanya, tiba-tiba mereka mengingkarinya."
+	},
+	{
+		"aid": "136",
+		"p": "nlcp",
+		"text": "Kemudian Kami menghukum mereka, maka Kami tenggelamkan mereka di laut disebabkan mereka mendustakan ayat-ayat Kami dan mereka adalah orang-orang yang melalaikan ayat-ayat Kami itu."
+	},
+	{
+		"aid": "137",
+		"text": "Dan Kami pusakakan kepada kaum yang telah ditindas itu, negeri-negeri bahagian timur bumi dan bahagian baratnya yang telah Kami beri berkah padanya. Dan telah sempurnalah perkataan Tuhanmu yang baik (sebagai janji) untuk Bani Israil disebabkan kesabaran mereka. Dan Kami hancurkan apa yang telah dibuat Fir`aun dan kaumnya dan apa yang telah dibangun mereka."
+	},
+	{
+		"aid": "138",
+		"p": "op",
+		"text": "Dan Kami seberangkan Bani Israil ke seberang lautan itu, maka setelah mereka sampai kepada suatu kaum yang tetap menyembah berhala mereka, Bani Israil berkata, “Hai Musa, buatlah untuk kami sebuah tuhan (berhala) sebagaimana mereka mempunyai beberapa tuhan (berhala).” Musa menjawab, “Sesungguhnya kamu ini adalah kaum yang tidak mengetahui (sifat-sifat Tuhan).”"
+	},
+	{
+		"aid": "139",
+		"text": "Sesungguhnya mereka itu akan dihancurkan kepercayaan yang dianutnya dan akan batal apa yang selalu mereka kerjakan."
+	},
+	{
+		"aid": "140",
+		"p": "nlcp",
+		"text": "Musa menjawab, “Patutkah aku mencari Tuhan untuk kamu yang selain dari Allah, padahal Dialah yang telah melebihkan kamu atas segala umat.”"
+	},
+	{
+		"aid": "141",
+		"r": "16",
+		"text": "Dan (ingatlah hai Bani Israil), ketika Kami menyelamatkan kamu dari (Fir`aun) dan kaumnya, yang mengazab kamu dengan azab yang sangat jahat, yaitu mereka membunuh anak-anak lelakimu dan membiarkan hidup wanita-wanitamu. Dan pada yang demikian itu cobaan yang besar dari Tuhanmu."
+	},
+	{
+		"aid": "142",
+		"p": "op",
+		"text": "Dan telah Kami janjikan kepada Musa (memberikan Taurat) sesudah berlalu waktu tiga puluh malam, dan Kami sempurnakan jumlah malam itu dengan sepuluh (malam lagi), maka sempurnalah waktu yang telah ditentukan Tuhannya empat puluh malam. Dan berkata Musa kepada saudaranya yaitu Harun, “Gantikanlah aku dalam (memimpin) kaumku, dan perbaikilah, dan janganlah kamu mengikuti jalan orang-orang yang membuat kerusakan.”"
+	},
+	{
+		"aid": "143",
+		"p": "nl",
+		"text": "Dan tatkala Musa datang untuk (munajat dengan Kami) pada waktu yang telah Kami tentukan dan Tuhan telah berfirman (langsung) kepadanya, berkatalah Musa, “Ya Tuhanku, nampakkanlah (diri Engkau) kepadaku agar aku dapat melihat kepada Engkau.” Tuhan berfirman, “Kamu sekali-kali tidak sanggup melihat-Ku, tapi lihatlah ke bukit itu, maka jika ia tetap di tempatnya (sebagai sediakala) niscaya kamu dapat melihat-Ku.” Tatkala Tuhannya menampakkan diri kepada gunung itu, dijadikannya gunung itu hancur luluh dan Musa pun jatuh pingsan. Maka setelah Musa sadar kembali, dia berkata, “Maha Suci Engkau, aku bertobat kepada Engkau dan aku orang yang pertama-tama beriman.”"
+	},
+	{
+		"aid": "144",
+		"p": "nl",
+		"text": "Allah berfirman, “Hai Musa sesungguhnya Aku memilih (melebihkan) kamu dari manusia yang lain (di masamu) untuk membawa risalah-Ku dan untuk berbicara langsung dengan-Ku, sebab itu berpegang teguhlah kepada apa yang Aku berikan kepadamu dan hendaklah kamu termasuk orang-orang yang bersyukur.”"
+	},
+	{
+		"aid": "145",
+		"text": "Dan telah Kami tuliskan untuk Musa pada luh-luh (Taurat) segala sesuatu sebagai pelajaran dan penjelasan bagi segala sesuatu; maka (Kami berfirman), “Berpeganglah kepadanya dengan teguh dan suruhlah kaummu berpegang kepada (perintah-perintahnya) dengan sebaik-baiknya, nanti Aku akan memperlihatkan kepadamu negeri orang-orang yang fasik.”"
+	},
+	{
+		"aid": "146",
+		"p": "nl",
+		"text": "Aku akan memalingkan orang-orang yang menyombongkan dirinya di muka bumi tanpa alasan yang benar dari tanda-tanda kekuasaan-Ku. Mereka jika melihat tiap-tiap ayat (Ku), mereka tidak beriman kepadanya. Dan jika mereka melihat jalan yang membawa kepada petunjuk, mereka tidak mau menempuhnya, tetapi jika mereka melihat jalan kesesatan, mereka terus menempuhnya. Yang demikian itu adalah karena mereka mendustakan ayat-ayat Kami dan mereka selalu lalai darinya."
+	},
+	{
+		"aid": "147",
+		"p": "cp",
+		"r": "17",
+		"text": "Dan orang-orang yang mendustakan ayat-ayat Kami dan mendustakan akan menemui akhirat, sia-sialah perbuatan mereka. Mereka tidak diberi balasan selain dari apa yang telah mereka kerjakan."
+	},
+	{
+		"aid": "148",
+		"p": "op",
+		"text": "Dan kaum Musa, setelah kepergian Musa ke gunung Thur membuat dari perhiasan-perhiasan (emas) mereka anak lembu yang bertubuh dan bersuara. Apakah mereka tidak mengetahui bahwa anak lembu itu tidak dapat berbicara dengan mereka dan tidak dapat (pula) menunjukkan jalan kepada mereka? Mereka menjadikannya (sebagai sembahan) dan mereka adalah orang-orang yang zalim."
+	},
+	{
+		"aid": "149",
+		"text": "Dan setelah mereka sangat menyesali perbuatannya dan mengetahui bahwa mereka telah sesat, mereka pun berkata, “Sungguh jika Tuhan kami tidak memberi rahmat kepada kami dan tidak mengampuni kami, pastilah kami menjadi orang-orang yang merugi.”"
+	},
+	{
+		"aid": "150",
+		"p": "nl",
+		"text": "Dan tatkala Musa telah kembali kepada kaumnya dengan marah dan sedih hati berkatalah dia, “Alangkah buruknya perbuatan yang kamu kerjakan sesudah kepergianku! Apakah kamu hendak mendahului janji Tuhanmu?” Dan Musa pun melemparkan luh-luh (Taurat) itu dan memegang (rambut) kepala saudaranya (Harun) sambil menariknya ke arahnya. Harun berkata, “Hai anak ibuku, sesungguhnya kaum ini telah menganggapku lemah dan hampir-hampir mereka membunuhku, sebab itu janganlah kamu menjadikan musuh-musuh gembira melihatku, dan janganlah kamu masukkan aku ke dalam golongan orang-orang yang zalim.”"
+	},
+	{
+		"aid": "151",
+		"p": "nlcp",
+		"r": "18",
+		"text": "Musa berdoa, “Ya Tuhanku, ampunilah aku dan saudaraku dan masukkanlah kami ke dalam rahmat Engkau, dan Engkau adalah Maha Penyayang di antara para penyayang.”"
+	},
+	{
+		"aid": "152",
+		"p": "op",
+		"text": "Sesungguhnya orang-orang yang menjadikan anak lembu (sebagai sembahannya), kelak akan menimpa mereka kemurkaan dari Tuhan mereka dan kehinaan dalam kehidupan di dunia. Demikianlah Kami memberi balasan kepada orang-orang yang membuat-buat kebohongan."
+	},
+	{
+		"aid": "153",
+		"p": "cp",
+		"text": "Orang-orang yang mengerjakan kejahatan, kemudian bertobat sesudah itu dan beriman; sesungguhnya Tuhan kamu, sesudah tobat yang disertai dengan iman itu adalah Maha Pengampun lagi Maha Penyayang."
+	},
+	{
+		"aid": "154",
+		"p": "op",
+		"text": "Sesudah amarah Musa menjadi reda, lalu diambilnya (kembali) luh-luh (Taurat) itu; dan dalam tulisannya terdapat petunjuk dan rahmat untuk orang-orang yang takut kepada Tuhannya."
+	},
+	{
+		"aid": "155",
+		"p": "nl",
+		"text": "Dan Musa memilih tujuh puluh orang dari kaumnya untuk (memohonkan tobat kepada Kami) pada waktu yang telah Kami tentukan. Maka ketika mereka diguncang gempa bumi, Musa berkata, “Ya Tuhanku, kalau Engkau kehendaki, tentulah Engkau membinasakan mereka dan aku sebelum ini. Apakah Engkau membinasakan kami karena perbuatan orang-orang yang kurang akal di antara kami? Itu hanyalah cobaan dari Engkau, Engkau sesatkan dengan cobaan itu siapa yang Engkau kehendaki dan Engkau beri petunjuk kepada siapa yang Engkau kehendaki. Engkaulah Yang memimpin kami, maka ampunilah kami dan berilah kami rahmat dan Engkaulah Pemberi ampun yang sebaik-baiknya."
+	},
+	{
+		"aid": "156",
+		"p": "cp",
+		"text": "Dan tetapkanlah untuk kami kebajikan di dunia ini dan di akhirat; sesungguhnya kami kembali (bertobat) kepada Engkau.” Allah berfirman, “Siksa-Ku akan Kutimpakan kepada siapa yang Aku kehendaki dan rahmat-Ku meliputi segala sesuatu. Maka akan Aku tetapkan rahmat-Ku untuk orang-orang yang bertakwa, yang menunaikan zakat dan orang-orang yang beriman kepada ayat-ayat Kami.”"
+	},
+	{
+		"aid": "157",
+		"r": "19",
+		"text": "(Yaitu) orang-orang yang mengikut Rasul, Nabi yang umi yang (namanya) mereka dapati tertulis di dalam Taurat dan Injil yang ada di sisi mereka, yang menyuruh mereka mengerjakan yang ma`ruf dan melarang mereka dari mengerjakan yang mungkar dan menghalalkan bagi mereka segala yang baik dan mengharamkan bagi mereka segala yang buruk dan membuang dari mereka beban-beban dan belenggu-belenggu yang ada pada mereka. Maka orang-orang yang beriman kepadanya, memuliakannya, menolongnya dan mengikuti cahaya yang terang yang diturunkan kepadanya (Al Qur`an), mereka itulah orang-orang yang beruntung."
+	},
+	{
+		"aid": "158",
+		"text": "Katakanlah, “Hai manusia sesungguhnya aku adalah utusan Allah kepadamu semua, yaitu Allah yang mempunyai kerajaan langit dan bumi; tidak ada Tuhan (yang berhak disembah) selain Dia, Yang menghidupkan dan mematikan, maka berimanlah kamu kepada Allah dan Rasul Nya, Nabi yang umi yang beriman kepada Allah dan kepada kalimat-kalimat-Nya (kitab-kitab-Nya) dan ikutilah dia, supaya kamu mendapat petunjuk.”"
+	},
+	{
+		"aid": "159",
+		"p": "op",
+		"text": "Dan di antara kaum Musa itu terdapat suatu umat yang memberi petunjuk (kepada manusia) dengan hak dan dengan yang hak itulah mereka menjalankan keadilan."
+	},
+	{
+		"aid": "160",
+		"p": "cp",
+		"text": "Dan mereka Kami bagi menjadi dua belas suku yang masing-masingnya berjumlah besar dan Kami wahyukan kepada Musa ketika kaumnya meminta air kepadanya, “Pukullah batu itu dengan tongkatmu!” Maka memancarlah darinya duabelas mata air. Sesungguhnya tiap-tiap suku mengetahui tempat minum masing-masing. Dan Kami naungkan awan di atas mereka dan Kami turunkan kepada mereka manna dan salwa. (Kami berfirman), “Makanlah yang baik-baik dari apa yang telah Kami rezekikan kepadamu.” Mereka tidak menganiaya Kami, tetapi merekalah yang selalu menganiaya dirinya sendiri."
+	},
+	{
+		"aid": "161",
+		"p": "op",
+		"text": "Dan (ingatlah), ketika dikatakan kepada mereka (Bani Israil), “Diamlah di negeri ini saja (Baitul Maqdis) dan makanlah dari (hasil bumi) nya di mana saja kamu kehendaki.” Dan katakanlah, “Bebaskanlah kami dari dosa kami dan masukilah pintu gerbangnya sambil membungkuk, niscaya Kami ampuni kesalahan-kesalahanmu.” Kelak akan Kami tambah (pahala) kepada orang-orang yang berbuat baik."
+	},
+	{
+		"aid": "162",
+		"p": "cp",
+		"r": "20",
+		"text": "Maka orang-orang yang zalim di antara mereka itu mengganti (perkataan itu) dengan perkataan yang tidak dikatakan kepada mereka, maka Kami timpakan kepada mereka azab dari langit disebabkan kezaliman mereka."
+	},
+	{
+		"aid": "163",
+		"text": "Dan tanyakanlah kepada Bani Israil tentang negeri yang terletak di dekat laut ketika mereka melanggar aturan pada hari Sabtu, di waktu datang kepada mereka ikan-ikan (yang berada di sekitar) mereka terapung-apung di permukaan air, dan di hari-hari yang bukan Sabtu, ikan-ikan itu tidak datang kepada mereka. Demikianlah Kami mencoba mereka disebabkan mereka berlaku fasik."
+	},
+	{
+		"aid": "164",
+		"p": "op",
+		"text": "Dan (ingatlah) ketika suatu umat di antara mereka berkata, “Mengapa kamu menasihati kaum yang Allah akan membinasakan mereka atau mengazab mereka dengan azab yang amat keras?” Mereka menjawab, “Agar kami mempunyai alasan (pelepas tanggung jawab) kepada Tuhanmu, dan supaya mereka bertakwa.”"
+	},
+	{
+		"aid": "165",
+		"p": "nl",
+		"text": "Maka tatkala mereka melupakan apa yang diperingatkan kepada mereka, Kami selamatkan orang-orang yang melarang dari perbuatan jahat dan Kami timpakan kepada orang-orang yang zalim siksaan yang keras, disebabkan mereka selalu berbuat fasik."
+	},
+	{
+		"aid": "166",
+		"p": "cp",
+		"text": "Maka tatkala mereka bersikap sombong terhadap apa yang mereka dilarang mengerjakannya, Kami katakan kepadanya, “Jadilah kamu kera yang hina.”"
+	},
+	{
+		"aid": "167",
+		"text": "Dan (ingatlah), ketika Tuhanmu memberitahukan, bahwa sesungguhnya Dia akan mengirim kepada mereka (orang-orang Yahudi) sampai hari kiamat orang-orang yang akan menimpakan kepada mereka azab yang seburuk-buruknya. Sesungguhnya Tuhanmu amat cepat siksa-Nya, dan sesungguhnya Dia adalah Maha Pengampun lagi Maha Penyayang."
+	},
+	{
+		"aid": "168",
+		"p": "op",
+		"text": "Dan Kami bagi-bagi mereka di dunia ini menjadi beberapa golongan; di antaranya ada orang-orang yang saleh dan di antaranya ada yang tidak demikian. Dan Kami coba mereka dengan (nikmat) yang baik-baik dan (bencana) yang buruk-buruk, agar mereka kembali (kepada kebenaran)."
+	},
+	{
+		"aid": "169",
+		"p": "nl",
+		"text": "Maka datanglah sesudah mereka generasi (yang jahat) yang mewarisi Taurat, yang mengambil harta benda dunia yang rendah ini, dan berkata, “Kami akan diberi ampun.” Dan kelak jika datang kepada mereka harta benda dunia sebanyak itu (pula), niscaya mereka akan mengambilnya (juga). Bukankah perjanjian Taurat sudah diambil dari mereka, yaitu bahwa mereka tidak akan mengatakan terhadap Allah kecuali yang benar, padahal mereka telah mempelajari apa yang tersebut di dalamnya? Dan kampung akhirat itu lebih baik bagi mereka yang bertakwa. Maka apakah kamu sekalian tidak mengerti?"
+	},
+	{
+		"aid": "170",
+		"p": "nlcp",
+		"text": "Dan orang-orang yang berpegang teguh dengan Al Kitab (Taurat) serta mendirikan salat, (akan diberi pahala) karena sesungguhnya Kami tidak menyia-nyiakan pahala orang-orang yang mengadakan perbaikan."
+	},
+	{
+		"aid": "171",
+		"r": "21",
+		"text": "Dan (ingatlah), ketika Kami mengangkat bukit ke atas mereka seakan-akan bukit itu naungan awan dan mereka yakin bahwa bukit itu akan jatuh menimpa mereka. (Dan Kami katakan kepada mereka), “Peganglah dengan teguh apa yang telah Kami berikan kepadamu, serta ingatlah selalu (amalkanlah) apa yang tersebut di dalamnya supaya kamu menjadi orang-orang yang bertakwa.”"
+	},
+	{
+		"aid": "172",
+		"p": "op",
+		"text": "Dan (ingatlah), ketika Tuhanmu mengeluarkan keturunan anak-anak Adam dari sulbi mereka dan Allah mengambil kesaksian terhadap jiwa mereka (seraya berfirman), “Bukankah Aku ini Tuhanmu?” Mereka menjawab, “Betul (Engkau Tuhan kami), kami menjadi saksi.” (Kami lakukan yang demikian itu) agar di hari kiamat kamu tidak mengatakan, “Sesungguhnya kami (bani Adam) adalah orang-orang yang lengah terhadap ini (keesaan Tuhan)”,"
+	},
+	{
+		"aid": "173",
+		"text": "atau agar kamu tidak mengatakan, “Sesungguhnya orang-orang tua kami telah mempersekutukan Tuhan sejak dahulu, sedang kami ini adalah anak-anak keturunan yang (datang) sesudah mereka. Maka apakah Engkau akan membinasakan kami karena perbuatan orang-orang yang sesat dahulu?”"
+	},
+	{
+		"aid": "174",
+		"p": "nlcp",
+		"text": "Dan demikianlah Kami menjelaskan ayat-ayat itu, agar mereka kembali (kepada kebenaran)."
+	},
+	{
+		"aid": "175",
+		"p": "op",
+		"text": "Dan bacakanlah kepada mereka berita orang yang telah Kami berikan kepadanya ayat-ayat Kami (pengetahuan tentang isi Al Kitab), kemudian dia melepaskan diri daripada ayat-ayat itu lalu dia diikuti oleh setan (sampai dia tergoda), maka jadilah dia termasuk orang-orang yang sesat."
+	},
+	{
+		"aid": "176",
+		"p": "nl",
+		"text": "Dan kalau Kami menghendaki, sesungguhnya Kami tinggikan (derajat) nya dengan ayat-ayat itu, tetapi dia cenderung kepada dunia dan menurutkan hawa nafsunya yang rendah, maka perumpamaannya seperti anjing jika kamu menghalaunya diulurkannya lidahnya dan jika kamu membiarkannya dia mengulurkan lidahnya (juga). Demikian itulah perumpamaan orang-orang yang mendustakan ayat-ayat Kami. Maka ceritakanlah (kepada mereka) kisah-kisah itu agar mereka berpikir."
+	},
+	{
+		"aid": "177",
+		"text": "Amat buruklah perumpamaan orang-orang yang mendustakan ayat-ayat Kami dan kepada diri mereka sendirilah mereka berbuat zalim."
+	},
+	{
+		"aid": "178",
+		"p": "nl",
+		"text": "Barang siapa yang diberi petunjuk oleh Allah, maka dialah yang mendapat petunjuk; dan barang siapa yang disesatkan Allah, maka merekalah orang-orang yang merugi."
+	},
+	{
+		"aid": "179",
+		"p": "nlcp",
+		"text": "Dan sesungguhnya Kami jadikan untuk isi neraka Jahanam kebanyakan dari jin dan manusia, mereka mempunyai hati, tetapi tidak dipergunakannya untuk memahami (ayat-ayat Allah) dan mereka mempunyai mata (tetapi) tidak dipergunakannya untuk melihat (tanda-tanda kekuasaan Allah), dan mereka mempunyai telinga (tetapi) tidak dipergunakannya untuk mendengar (ayat-ayat Allah). Mereka itu sebagai binatang ternak, bahkan mereka lebih sesat lagi. Mereka itulah orang-orang yang lalai."
+	},
+	{
+		"aid": "180",
+		"text": "Hanya milik Allah asmaulhusna, maka bermohonlah kepada-Nya dengan menyebut asmaulhusna itu dan tinggalkanlah orang-orang yang menyimpang dari kebenaran dalam (menyebut) nama-nama-Nya. Nanti mereka akan mendapat balasan terhadap apa yang telah mereka kerjakan."
+	},
+	{
+		"aid": "181",
+		"r": "22",
+		"text": "Dan di antara orang-orang yang Kami ciptakan ada umat yang memberi petunjuk dengan hak, dan dengan yang hak itu (pula) mereka menjalankan keadilan."
+	},
+	{
+		"aid": "182",
+		"p": "op",
+		"text": "Dan orang-orang yang mendustakan ayat-ayat Kami, nanti Kami akan menarik mereka dengan berangsur-angsur (ke arah kebinasaan), dengan cara yang tidak mereka ketahui."
+	},
+	{
+		"aid": "183",
+		"p": "cp",
+		"text": "Dan Aku memberi tangguh kepada mereka. Sesungguhnya rencana-Ku amat teguh."
+	},
+	{
+		"aid": "184",
+		"p": "op",
+		"text": "Apakah (mereka lalai) dan tidak memikirkan bahwa teman mereka (Muhammad) tidak berpenyakit gila. Dia (Muhammad itu) tidak lain hanyalah seorang pemberi peringatan lagi pemberi penjelasan."
+	},
+	{
+		"aid": "185",
+		"text": "Dan apakah mereka tidak memperhatikan kerajaan langit dan bumi dan segala sesuatu yang diciptakan Allah, dan kemungkinan telah dekatnya kebinasaan mereka? Maka kepada berita manakah lagi mereka akan beriman selain kepada Al Qur`an itu?"
+	},
+	{
+		"aid": "186",
+		"p": "cp",
+		"text": "Barang siapa yang Allah sesatkan, maka baginya tak ada orang yang akan memberi petunjuk. Dan Allah membiarkan mereka terombang-ambing dalam kesesatan."
+	},
+	{
+		"aid": "187",
+		"text": "Mereka menanyakan kepadamu tentang kiamat, “Bilakah terjadinya?” Katakanlah, “Sesungguhnya pengetahuan tentang kiamat itu adalah pada sisi Tuhanku; tidak seorang pun yang dapat menjelaskan waktu kedatangannya selain Dia. Kiamat itu amat berat (huru-haranya bagi makhluk) yang di langit dan di bumi. Kiamat itu tidak akan datang kepadamu melainkan dengan tiba-tiba.” Mereka bertanya kepadamu seakan-akan kamu benar-benar mengetahuinya. Katakanlah, “Sesungguhnya pengetahuan tentang hari kiamat itu adalah di sisi Allah, tetapi kebanyakan manusia tidak mengetahui.”"
+	},
+	{
+		"aid": "188",
+		"r": "23",
+		"text": "Katakanlah, “Aku tidak berkuasa menarik kemanfaatan bagi diriku dan tidak (pula) menolak kemudharatan kecuali yang dikehendaki Allah. Dan sekiranya aku mengetahui yang gaib, tentulah aku membuat kebajikan sebanyak-banyaknya dan aku tidak akan ditimpa kemudharatan. Aku tidak lain hanyalah pemberi peringatan, dan pembawa berita gembira bagi orang-orang yang beriman.”"
+	},
+	{
+		"aid": "189",
+		"p": "op",
+		"text": "Dialah Yang menciptakan kamu dari diri yang satu dan darinya Dia menciptakan istrinya, agar dia merasa senang kepadanya. Maka setelah dicampurinya, istrinya itu mengandung kandungan yang ringan, dan teruslah dia merasa ringan (beberapa waktu). Kemudian tatkala dia merasa berat, keduanya (suami istri) bermohon kepada Allah, Tuhannya seraya berkata, “Sesungguhnya jika Engkau memberi kami anak yang sempurna, tentulah kami termasuk orang-orang yang bersyukur.”"
+	},
+	{
+		"aid": "190",
+		"p": "cp",
+		"text": "Tatkala Allah memberi kepada keduanya seorang anak yang sempurna, maka keduanya menjadikan sekutu bagi Allah terhadap anak yang telah dianugerahkan-Nya kepada keduanya itu. Maka Maha Tinggi Allah dari apa yang mereka persekutukan."
+	},
+	{
+		"aid": "191",
+		"p": "op",
+		"text": "Apakah mereka mempersekutukan (Allah dengan) berhala-berhala yang tak dapat menciptakan sesuatu pun? Sedangkan berhala-berhala itu sendiri buatan orang."
+	},
+	{
+		"aid": "192",
+		"text": "Dan berhala-berhala itu tidak mampu memberi pertolongan kepada penyembah-penyembahnya dan kepada dirinya sendiri pun berhala-berhala itu tidak dapat memberi pertolongan."
+	},
+	{
+		"aid": "193",
+		"p": "cp",
+		"text": "Dan jika kamu (hai orang-orang musyrik) menyerunya (berhala) untuk memberi petunjuk kepadamu, tidaklah berhala-berhala itu dapat memperkenankan seruanmu; sama saja (hasilnya) buat kamu menyeru mereka atau pun kamu berdiam diri."
+	},
+	{
+		"aid": "194",
+		"text": "Sesungguhnya berhala-berhala yang kamu seru selain Allah itu adalah makhluk (yang lemah) yang serupa juga dengan kamu. Maka serulah berhala-berhala itu lalu biarkanlah mereka memperkenankan permintaanmu, jika kamu memang orang-orang yang benar."
+	},
+	{
+		"aid": "195",
+		"p": "op",
+		"text": "Apakah berhala-berhala mempunyai kaki yang dengan itu ia dapat berjalan, atau mempunyai tangan yang dengan itu ia dapat memegang dengan keras, atau mempunyai mata yang dengan itu ia dapat melihat, atau mempunyai telinga yang dengan itu ia dapat mendengar? Katakanlah, “Panggillah berhala-berhalamu yang kamu jadikan sekutu Allah, kemudian lakukanlah tipu daya (untuk mencelakakan) ku, tanpa memberi tangguh (kepada ku)."
+	},
+	{
+		"aid": "196",
+		"text": "Sesungguhnya pelindungku ialah Allah yang telah menurunkan Al Kitab (Al Qur`an) dan Dia melindungi orang-orang yang saleh."
+	},
+	{
+		"aid": "197",
+		"text": "Dan berhala-berhala yang kamu seru selain Allah tidaklah sanggup menolongmu, bahkan tidak dapat menolong dirinya sendiri.”"
+	},
+	{
+		"aid": "198",
+		"p": "nlcp",
+		"text": "Dan jika kamu sekalian menyeru (berberhala-berhala) untuk memberi petunjuk, niscaya berhala-berhala itu tidak dapat mendengarnya. Dan kamu melihat berhala-berhala itu memandang kepadamu padahal ia tidak melihat."
+	},
+	{
+		"aid": "199",
+		"p": "op",
+		"text": "Jadilah engkau pemaaf dan suruhlah orang mengerjakan yang ma`ruf, serta berpalinglah dari orang-orang yang bodoh."
+	},
+	{
+		"aid": "200",
+		"text": "Dan jika kamu ditimpa sesuatu godaan setan, maka berlindunglah kepada Allah. Sesungguhnya Allah Maha Mendengar lagi Maha Mengetahui."
+	},
+	{
+		"aid": "201",
+		"p": "nl",
+		"text": "Sesungguhnya orang-orang yang bertakwa bila mereka ditimpa was-was dari setan, mereka ingat kepada Allah, maka ketika itu juga mereka melihat kesalahan-kesalahannya."
+	},
+	{
+		"aid": "202",
+		"text": "Dan teman-teman mereka (orang-orang kafir dan fasik) membantu setan-setan dalam menyesatkan dan mereka tidak henti-hentinya (menyesatkan)."
+	},
+	{
+		"aid": "203",
+		"p": "nlcp",
+		"text": "Dan apabila kamu tidak membawa suatu ayat Al Qur`an kepada mereka, mereka berkata, “Mengapa tidak kamu buat sendiri ayat itu?” Katakanlah, “Sesungguhnya aku hanya mengikut apa yang diwahyukan dari Tuhanku kepadaku. Al Qur`an ini adalah bukti-bukti yang nyata dari Tuhanmu, petunjuk dan rahmat bagi orang-orang yang beriman.”"
+	},
+	{
+		"aid": "204",
+		"p": "op",
+		"text": "Dan apabila dibacakan Al Qur`an, maka dengarkanlah baik-baik, dan perhatikanlah dengan tenang agar kamu mendapat rahmat."
+	},
+	{
+		"aid": "205",
+		"text": "Dan sebutlah (nama) Tuhanmu dalam hatimu dengan merendahkan diri dan rasa takut, dan dengan tidak mengeraskan suara, di waktu pagi dan petang, dan janganlah kamu termasuk orang-orang yang lalai."
+	},
+	{
+		"aid": "206",
+		"p": "cp",
+		"r": "24",
+		"text": "Sesungguhnya malaikat-malaikat yang ada di sisi Tuhanmu tidaklah merasa enggan menyembah Allah dan mereka mentasbihkan-Nya dan hanya kepada-Nya lah mereka bersujud."
+	}
+]
