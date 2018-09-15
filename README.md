@@ -1,2 +1,2 @@
 # tq
-Terjemahan Al Qur`an
+Terjemahan Al Qur'an
