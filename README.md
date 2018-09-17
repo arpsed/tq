@@ -1,2 +1,2 @@
-# tq
-Terjemahan Al Qur'an
+# Terjemahan Alquran
+Latihan menggunakan React JS

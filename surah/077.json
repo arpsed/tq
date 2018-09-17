@@ -52,7 +52,7 @@
 	{
 		"aid": "12",
 		"p": "nl",
-		"text": "[Niscaya dikatakan kepada mereka,] “Sampai hari apakah ditangguhkan (azab orang-orang kafir itu)?”"
+		"text": "[Niscaya dikatakan kepada mereka,] “Sampai hari apakah ditangguhkan [azab orang-orang kafir itu]?”"
 	},
 	{
 		"aid": "13",
@@ -217,7 +217,7 @@
 	{
 		"aid": "48",
 		"p": "cp",
-		"text": "Dan apabila dikatakan kepada mereka, “rukuklah,” mereka tidak mau rukuk."
+		"text": "Dan apabila dikatakan kepada mereka, “Rukuklah!” Mereka tidak mau rukuk."
 	},
 	{
 		"aid": "49",
@@ -228,6 +228,6 @@
 		"aid": "50",
 		"p": "cp",
 		"r": "2",
-		"text": "Maka kepada ajaran manakah [selain Al Qur`an] ini mereka akan beriman?"
+		"text": "Maka kepada ajaran manakah [selain Alquran] ini mereka akan beriman?"
 	}
 ]

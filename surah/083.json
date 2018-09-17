@@ -33,11 +33,11 @@
 	{
 		"aid": "7",
 		"p": "op",
-		"text": "Sekali-kali jangan begitu! Sesungguhnya catatan orang yang durhaka benar-benar tersimpan dalam Sijjiin."
+		"text": "Sekali-kali jangan begitu! Sesungguhnya catatan orang yang durhaka benar-benar tersimpan dalam <i>Sijjiin</i>."
 	},
 	{
 		"aid": "8",
-		"text": "Dan tahukah engkau apakah Sijjiin itu?"
+		"text": "Dan tahukah engkau apakah <i>Sijjiin</i> itu?"
 	},
 	{
 		"aid": "9",
@@ -83,12 +83,12 @@
 	},
 	{
 		"aid": "18",
-		"text": "Sekali-kali tidak! Sesungguhnya catatan orang-orang yang berbakti benar-benar tersimpan dalam `Illiyyiin."
+		"text": "Sekali-kali tidak! Sesungguhnya catatan orang-orang yang berbakti benar-benar tersimpan dalam <i>`Illiyyiin</i>."
 	},
 	{
 		"aid": "19",
 		"p": "nl",
-		"text": "Dan tahukah engkau apakah `Illiyyiin itu?"
+		"text": "Dan tahukah engkau apakah <i>`Illiyyiin</i> itu?"
 	},
 	{
 		"aid": "20",
@@ -114,7 +114,7 @@
 	},
 	{
 		"aid": "25",
-		"text": "Mereka diberi minum dari khamar murni (tidak memabukkan) yang [tempatnya] masih dilak (disegel),"
+		"text": "Mereka diberi minum dari <i>khamar</i> murni (tidak memabukkan) yang [tempatnya] masih dilak (disegel),"
 	},
 	{
 		"aid": "26",
@@ -122,7 +122,7 @@
 	},
 	{
 		"aid": "27",
-		"text": "Dan campurannya dari tasniim,"
+		"text": "Dan campurannya dari <i>tasniim</i>,"
 	},
 	{
 		"aid": "28",

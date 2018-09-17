@@ -44,15 +44,17 @@
 	},
 	{
 		"aid": "10",
-		"text": "Sungguh, orang-orang yang mendatangkan cobaan (bencana, membunuh, menyiksa) kepada orang-orang Mukmin laki-laki dan perempuan lalu mereka tidak bertobat, maka bagi mereka akan mendapat azab Jahanam dan mereka akan mendapat azab (neraka) yang membakar."
+		"p": "op",
+		"text": "Sungguh, orang-orang yang mendatangkan cobaan (bencana, membunuh, menyiksa) kepada orang-orang Mukmin laki-laki dan perempuan lalu mereka tidak bertobat, maka bagi mereka akan mendapat azab Jahanam dan mereka akan mendapat azab yang membakar (neraka)."
 	},
 	{
 		"aid": "11",
+		"p": "nl",
 		"text": "Sungguh, orang-orang yang beriman dan mengerjakan kebajikan, mereka akan mendapat surga yang mengalir di bawahnya sungai-sungai, itulah kemenangan yang agung."
 	},
 	{
 		"aid": "12",
-		"p": "op",
+		"p": "nl",
 		"text": "Sungguh, azab Tuhanmu sangat keras."
 	},
 	{
@@ -65,7 +67,7 @@
 	},
 	{
 		"aid": "15",
-		"text": "yang mempunyai `Arsy, lagi Mahamulia,"
+		"text": "yang mempunyai <i>`Arsy</i>, lagi Mahamulia,"
 	},
 	{
 		"aid": "16",
@@ -75,11 +77,11 @@
 	{
 		"aid": "17",
 		"p": "op",
-		"text": "Sudahkah sampai kepadamu berita tentang bala tentara (penentang),"
+		"text": "Sudahkah sampai kepadamu berita tentang bala tentara [penentang],"
 	},
 	{
 		"aid": "18",
-		"text": "(yaitu) Fir`aun dan (kaum) Tsamud?"
+		"text": "[yaitu] Fir`aun dan [kaum] Tsamud?"
 	},
 	{
 		"aid": "19",
@@ -91,11 +93,11 @@
 	},
 	{
 		"aid": "21",
-		"text": "Bahkan [yang didustakan itu] ialah Al Qur`an yang mulia,"
+		"text": "Bahkan [yang didustakan itu] ialah Alquran yang mulia,"
 	},
 	{
 		"aid": "22",
 		"p": "cp",
-		"text": "yang [tersimpan] dalam [tempat] yang terjaga (Lauh Mahfuuz)."
+		"text": "yang [tersimpan] dalam [tempat] yang terjaga (<i>Lauh Mahfuuz</i>)."
 	}
 ]
