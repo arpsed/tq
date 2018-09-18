@@ -41,11 +41,12 @@
 	},
 	{
 		"aid": "9",
+		"p": "cp",
 		"text": "Mereka menginginkan agar engkau bersikap lunak maka mereka bersikap lunak [pula]."
 	},
 	{
 		"aid": "10",
-		"p": "nl",
+		"p": "op",
 		"text": "Dan janganlah engkau patuhi setiap orang yang suka bersumpah dan suka menghina,"
 	},
 	{
@@ -110,21 +111,21 @@
 	},
 	{
 		"aid": "25",
-		"p": "cp",
+		"p": "nl",
 		"text": "Dan berangkatlah mereka di pagi hari dengan niat menghalangi [orang-orang miskin] padahal mereka mampu [menolongnya]."
 	},
 	{
 		"aid": "26",
-		"p": "op",
 		"text": "Maka ketika mereka melihat kebun itu, mereka berkata, “Sungguh, kita ini benar-benar orang-orang yang sesat,"
 	},
 	{
 		"aid": "27",
+		"p": "cp",
 		"text": "bahkan kita tak memperoleh apa pun.”"
 	},
 	{
 		"aid": "28",
-		"p": "nl",
+		"p": "op",
 		"text": "Berkatalah seorang yang paling bijak di antara mereka, “Bukankah aku telah mengatakan kepadamu, mengapa kamu tidak bertasbih [kepada Tuhanmu].”"
 	},
 	{
@@ -174,12 +175,11 @@
 	},
 	{
 		"aid": "39",
-		"p": "cp",
 		"text": "Atau apakah kamu memperoleh [janji-janji yang diperkuat dengan] sumpah dari Kami, yang tetap berlaku sampai Hari Kiamat; bahwa kamu dapat mengambil keputusan [sekehendakmu]?"
 	},
 	{
 		"aid": "40",
-		"p": "op",
+		"p": "nl",
 		"text": "Tanyakanlah kepada mereka, “Siapakah di antara mereka yang bertanggung jawab terhadap [keputusan yang diambil itu]?”"
 	},
 	{
@@ -214,12 +214,11 @@
 	},
 	{
 		"aid": "47",
-		"p": "cp",
 		"text": "Ataukah mereka mengetahui yang gaib, lalu mereka menuliskannya?"
 	},
 	{
 		"aid": "48",
-		"p": "op",
+		"p": "nl",
 		"text": "Maka bersabarlah engkau (Muhammad) terhadap ketetapan Tuhanmu, dan janganlah engkau seperti orang yang berada dalam [perut] ikan ketika dia berdoa dengan hati sedih (Yunus)."
 	},
 	{

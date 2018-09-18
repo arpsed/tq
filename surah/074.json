@@ -212,7 +212,7 @@
 	{
 		"aid": "48",
 		"p": "nlcp",
-		"text": "Maka tidak berguna lagi bagi mereka syafaat (pertolongan) dari orang-orang yang memberikan syafaat."
+		"text": "Maka tidak berguna lagi bagi mereka <i>syafa`at</i> (pertolongan) dari orang-orang yang memberikan <i>syafa`at</i>."
 	},
 	{
 		"aid": "49",
@@ -233,7 +233,6 @@
 	},
 	{
 		"aid": "53",
-		"p": "nl",
 		"text": "Tidak! Sebenarnya mereka tidak takut kepada akhirat."
 	},
 	{
@@ -249,6 +248,6 @@
 		"aid": "56",
 		"p": "cp",
 		"r": "2",
-		"text": "Dan mereka tidak akan mengambil pelajaran darinya (Al Qu`ran) kecuali [jika] Allah menghendakinya. Dialah Tuhan yang patut [kita] bertakwa kepada-Nya dan yang berhak memberi ampun."
+		"text": "Dan mereka tidak akan mengambil pelajaran darinya (Alquran) kecuali [jika] Allah menghendakinya. Dialah Tuhan yang patut [kita] bertakwa kepada-Nya dan yang berhak memberi ampun."
 	}
 ]

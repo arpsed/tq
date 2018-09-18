@@ -81,7 +81,7 @@
 	{
 		"aid": "17",
 		"p": "nl",
-		"text": "Dan para malaikat berada di penjuru langit. Pada hari itu delapan malaikat menjunjung `Arsy (singgasana) Tuhanmu di atas [kepala] mereka."
+		"text": "Dan para malaikat berada di penjuru langit. Pada hari itu delapan malaikat menjunjung <i>`Arsy</i> (singgasana) Tuhanmu di atas [kepala] mereka."
 	},
 	{
 		"aid": "18",
@@ -174,16 +174,14 @@
 	{
 		"aid": "38",
 		"p": "op",
-		"text": "“Maka Aku bersumpah demi apa yang kamu lihat,"
+		"text": "Maka Aku bersumpah demi apa yang kamu lihat,"
 	},
 	{
 		"aid": "39",
-		"p": "cp",
-		"text": "dan demi apa yang tidak kamu lihat.”"
+		"text": "dan demi apa yang tidak kamu lihat."
 	},
 	{
 		"aid": "40",
-		"p": "op",
 		"text": "Sesungguhnya ia (Alquran) benar-benar wahyu [yang diturunkan kepada] Rasul yang mulia,"
 	},
 	{

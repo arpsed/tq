@@ -5,11 +5,12 @@
 	},
 	{
 		"aid": "1",
+		"p": "op",
 		"text": "Apa yang ada di langit dan apa yang ada di bumi, senantiasa bertasbih kepada Allah. Maharaja, Yang Mahasuci, Yang Mahaperkasa, Mahabijaksana."
 	},
 	{
 		"aid": "2",
-		"p": "op",
+		"p": "nl",
 		"text": "Dialah yang mengutus seorang Rasul kepada kaum yang buta huruf dari kalangan mereka sendiri, yang membacakan kepada mereka ayat-ayat-Nya, menyucikan [jiwa] mereka dan mengajarkan kepada mereka Kitab dan Hikmah (Sunah), meskipun sebelumnya, mereka benar-benar dalam kesesatan yang nyata,"
 	},
 	{
@@ -39,7 +40,7 @@
 		"aid": "8",
 		"p": "nlcp",
 		"r": "1",
-		"text": "Katakanlah, “Sesungguhnya kematian yang kamu lari dari padanya, ia pasti menemui kamu, kemudian kamu akan dikembalikan kepada [Allah], yang mengetahui yang gaib dan yang nyata, lalu Dia beritakan kepadamu apa yang telah kamu kerjakan.”"
+		"text": "Katakanlah, “Sesungguhnya kematian yang kamu lari darinya, ia pasti menemui kamu, kemudian kamu akan dikembalikan kepada [Allah], yang mengetahui yang gaib dan yang nyata, lalu Dia beritakan kepadamu apa yang telah kamu kerjakan.”"
 	},
 	{
 		"aid": "9",
@@ -48,13 +49,12 @@
 	},
 	{
 		"aid": "10",
-		"p": "nl",
+		"p": "cp",
 		"text": "Apabila salat telah dilaksanakan, maka bertebaranlah kamu di bumi; carilah karunia Allah, dan ingatlah Allah banyak-banyak agar kamu beruntung."
 	},
 	{
 		"aid": "11",
-		"p": "nlcp",
 		"r": "2",
-		"text": "Dan apabila mereka melihat perdagangan atau permainan, mereka segera menuju kepadanya dan mereka tinggalkan engkau (Muhammad) sedang berdiri (berkhotbah). Katakanlah, “Apa yang ada di sisi Allah lebih baik daripada permainan dan perdagangan,” dan Allah Pemberi rezeki terbaik."
+		"text": "Dan apabila mereka melihat perdagangan atau permainan, mereka segera menuju kepadanya dan mereka tinggalkan engkau (Muhammad) sedang berdiri (berkhotbah). Katakanlah, “Apa yang ada di sisi Allah lebih baik daripada permainan dan perdagangan, dan Allah Pemberi rezeki terbaik.”"
 	}
 ]
