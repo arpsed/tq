@@ -5,22 +5,21 @@
 	},
 	{
 		"aid": "1",
-		"p": "op",
 		"text": "Apa yang di langit dan di bumi bertasbih kepada Allah. Dialah Yang Mahaperkasa, Mahabijaksana."
 	},
 	{
 		"aid": "2",
+		"p": "op",
 		"text": "Milik-Nyalah kerajaan langit dan bumi, Dia menghidupkan dan mematikan, dan Dia Mahakuasa atas segala sesuatu."
 	},
 	{
 		"aid": "3",
-		"p": "cp",
 		"text": "Dialah Yang Awal, Yang Akhir, Yang Zahir, dan Yang Batin, dan Dia Maha Mengetahui segala sesuatu."
 	},
 	{
 		"aid": "4",
-		"p": "op",
-		"text": "Dialah yang menciptakan langit dan bumi dalam enam masa; Kemudian Dia bersemayam di atas `Arsy. Dia mengetahui apa yang masuk ke dalam bumi dan apa yang keluar dari dalamnya, apa yang turun dari langit dan apa yang naik ke sana. Dan Dia bersama kamu di mana saja kamu berada. Dan Allah Maha Melihat apa yang kamu kerjakan."
+		"p": "nl",
+		"text": "Dialah yang menciptakan langit dan bumi dalam enam masa; Kemudian Dia bersemayam di atas <i>`Arsy</i>. Dia mengetahui apa yang masuk ke dalam bumi dan apa yang keluar dari dalamnya, apa yang turun dari langit dan apa yang naik ke sana. Dan Dia bersama kamu di mana saja kamu berada. Dan Allah Maha Melihat apa yang kamu kerjakan."
 	},
 	{
 		"aid": "5",
@@ -49,7 +48,7 @@
 	{
 		"aid": "10",
 		"r": "1",
-		"text": "Dan mengapa kamu tidak menginfakkan hartamu di jalan Allah, padahal milik Allah semua pusaka langit dan bumi? Tidak sama orang yang menginfakkan [hartanya di jalan Allah] di antara kamu dan berperang sebelum penaklukan (Mekah). Mereka lebih tinggi derajatnya daripada orang-orang yang menginfakkan [hartanya] dan berperang setelah itu. Dan Allah menjanjikan kepada masing-masing mereka [balasan] yang lebih baik. Dan Allah Mahateliti terhadap apa yang kamu kerjakan."
+		"text": "Dan mengapa kamu tidak menginfakkan hartamu di jalan Allah, padahal milik Allah semua pusaka langit dan bumi? Tidak sama orang yang menginfakkan [hartanya di jalan Allah] di antara kamu dan berperang sebelum penaklukan [Mekah]. Mereka lebih tinggi derajatnya daripada orang-orang yang menginfakkan [hartanya] dan berperang setelah itu. Dan Allah menjanjikan kepada masing-masing mereka [balasan] yang lebih baik. Dan Allah Mahateliti terhadap apa yang kamu kerjakan."
 	},
 	{
 		"aid": "11",
@@ -80,7 +79,7 @@
 	},
 	{
 		"aid": "17",
-		"text": "Ketahuilah bahwa Allah yang menghidupkan bumi setelah matinya (kering). Sungguh, telah Kami jelaskan kepadamu tanda-tanda (kebesaran Kami) agar kamu mengerti."
+		"text": "Ketahuilah bahwa Allah yang menghidupkan bumi setelah matinya (kering). Sungguh, telah Kami jelaskan kepadamu tanda-tanda [kebesaran Kami] agar kamu mengerti."
 	},
 	{
 		"aid": "18",
@@ -102,7 +101,7 @@
 	{
 		"aid": "22",
 		"p": "op",
-		"text": "Setiap bencana yang menimpa di bumi dan yang menimpa dirimu sendiri, semuanya telah tertulis dalam Kitab (Lauh Mahfuuzh) sebelum Kami mewujudkannya. Sungguh, yang demikian itu mudah bagi Allah."
+		"text": "Setiap bencana yang menimpa di bumi dan yang menimpa dirimu sendiri, semuanya telah tertulis dalam Kitab (<i>Lauh Mahfuuzh</i>) sebelum Kami mewujudkannya. Sungguh, yang demikian itu mudah bagi Allah."
 	},
 	{
 		"aid": "23",
@@ -127,7 +126,7 @@
 	{
 		"aid": "27",
 		"p": "nlcp",
-		"text": "Kemudian Kami susulkan rasul-rasul Kami mengikuti jejak mereka dan Kami susulkan [pula] Isa putra Maryam; dan Kami berikan Injil kepadanya dan Kami jadikan rasa santun dan kasih sayang dalam hati orang-orang yang mengikutinya. Mereka mengada-adakan rahbaaniyyah, padahal Kami tidak mewajibkannya kepada mereka, [yang Kami wajibkan hanyalah] mencari keridaan Allah, tetapi tidak mereka pelihara dengan semestinya. Maka kepada orang-orang yang beriman di antara mereka Kami berikan pahalanya, dan banyak di antara mereka yang fasik."
+		"text": "Kemudian Kami susulkan rasul-rasul Kami mengikuti jejak mereka dan Kami susulkan [pula] Isa putra Maryam; dan Kami berikan Injil kepadanya dan Kami jadikan rasa santun dan kasih sayang dalam hati orang-orang yang mengikutinya. Mereka mengada-adakan <i>rahbaaniyyah</i>, padahal Kami tidak mewajibkannya kepada mereka, [yang Kami wajibkan hanyalah] mencari keridaan Allah, tetapi tidak mereka pelihara dengan semestinya. Maka kepada orang-orang yang beriman di antara mereka Kami berikan pahalanya, dan banyak di antara mereka yang fasik."
 	},
 	{
 		"aid": "28",

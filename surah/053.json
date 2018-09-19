@@ -84,7 +84,7 @@
 	{
 		"aid": "19",
 		"p": "nl",
-		"text": "Maka apakah patut kamu (orang-orang musyrik) menganggap (berhala) Al-Lata dan Al-`Uzza,"
+		"text": "Maka apakah patut kamu (orang-orang musyrik) menganggap [berhala] Al-Lata dan Al-`Uzza,"
 	},
 	{
 		"aid": "20",
@@ -102,11 +102,12 @@
 	},
 	{
 		"aid": "23",
+		"p": "op",
 		"text": "Itu tidak lain hanyalah nama-nama yang kamu dan nenek moyangmu mengada-adakannya; Allah tidak menurunkan suatu keterangan apa pun untuk [menyembah]nya. Mereka hanya mengikuti dugaan, dan apa yang diingini oleh keinginannya. Padahal sungguh, telah datang petunjuk dari Tuhan mereka."
 	},
 	{
 		"aid": "24",
-		"p": "op",
+		"p": "nl",
 		"text": "Atau apakah manusia akan mendapat segala yang dicita-citakannya?"
 	},
 	{
@@ -117,7 +118,7 @@
 	},
 	{
 		"aid": "26",
-		"text": "Dan betapa banyak malaikat di langit, syafaat (pertolongan) mereka sedikit pun tidak berguna kecuali apabila Allah telah mengizinkan [dan hanya] bagi siapa yang Dia kehendaki dan Dia ridai."
+		"text": "Dan betapa banyak malaikat di langit, <i>syafa`at</i> (pertolongan) mereka sedikit pun tidak berguna kecuali apabila Allah telah mengizinkan [dan hanya] bagi siapa yang Dia kehendaki dan Dia ridai."
 	},
 	{
 		"aid": "27",
@@ -219,7 +220,7 @@
 	},
 	{
 		"aid": "49",
-		"text": "dan sesungguhnya Dialah Tuhan [yang memiliki] bintang Syi`ra,"
+		"text": "dan sesungguhnya Dialah Tuhan [yang memiliki] bintang <i>Syi`ra</i>,"
 	},
 	{
 		"aid": "50",
@@ -236,7 +237,7 @@
 	{
 		"aid": "53",
 		"p": "nl",
-		"text": "Dan prahara angin telah meruntuhkan (negeri kaum Luth),"
+		"text": "Dan prahara angin telah meruntuhkan [negeri kaum Luth],"
 	},
 	{
 		"aid": "54",

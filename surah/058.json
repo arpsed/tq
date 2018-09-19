@@ -10,12 +10,12 @@
 	{
 		"aid": "2",
 		"p": "op",
-		"text": "Orang-orang di antara kamu yang men-zihar istrinya, [menganggap istrinya sebagai ibunya, padahal] istri mereka itu bukanlah ibunya. Ibu-ibu mereka hanyalah perempuan yang melahirkannya. Dan sesungguhnya mereka benar-benar telah mengucapkan suatu perkataan yang mungkar dan dusta. Dan sesungguhnya Allah Maha Pemaaf, Maha Pengampun."
+		"text": "Orang-orang di antara kamu yang men-<i>zihar</i> istrinya, [menganggap istrinya sebagai ibunya, padahal] istri mereka itu bukanlah ibunya. Ibu-ibu mereka hanyalah perempuan yang melahirkannya. Dan sesungguhnya mereka benar-benar telah mengucapkan suatu perkataan yang mungkar dan dusta. Dan sesungguhnya Allah Maha Pemaaf, Maha Pengampun."
 	},
 	{
 		"aid": "3",
 		"p": "nl",
-		"text": "Dan mereka yang men-zihar istrinya, kemudian menarik kembali apa yang telah mereka ucapkan, maka [mereka diwajibkan] memerdekakan seorang budak sebelum kedua suami istri itu bercampur. Demikianlah yang diajarkan kepadamu, dan Allah Mahateliti apa yang kamu kerjakan."
+		"text": "Dan mereka yang men-<i>zihar</i> istrinya, kemudian menarik kembali apa yang telah mereka ucapkan, maka [mereka diwajibkan] memerdekakan seorang budak sebelum kedua suami istri itu bercampur. Demikianlah yang diajarkan kepadamu, dan Allah Mahateliti apa yang kamu kerjakan."
 	},
 	{
 		"aid": "4",
@@ -53,7 +53,7 @@
 	},
 	{
 		"aid": "11",
-		"text": "Wahai orang-orang yang beriman! Apabila dikatakan kepadamu, “Berilah kelapangan di dalam majelis-majelis,” maka lapangkanlah, niscaya Allah akan memberi kelapangan untukmu. Dan apabila dikatakan, “Berdirilah kamu,” maka berdirilah, niscaya Allah akan mengangkat (derajat) orang-orang yang beriman di antaramu dan orang-orang yang diberi ilmu beberapa derajat. Dan Allah Mahateliti apa yang kamu kerjakan."
+		"text": "Wahai orang-orang yang beriman! Apabila dikatakan kepadamu, “Berilah kelapangan di dalam majelis-majelis,” maka lapangkanlah, niscaya Allah akan memberi kelapangan untukmu. Dan apabila dikatakan, “Berdirilah kamu,” maka berdirilah, niscaya Allah akan mengangkat [derajat] orang-orang yang beriman di antaramu dan orang-orang yang diberi ilmu beberapa derajat. Dan Allah Mahateliti apa yang kamu kerjakan."
 	},
 	{
 		"aid": "12",
@@ -97,10 +97,12 @@
 	},
 	{
 		"aid": "20",
+		"p": "op",
 		"text": "Sesungguhnya orang-orang yang menentang Allah dan Rasul-Nya, mereka termasuk orang-orang yang sangat hina."
 	},
 	{
 		"aid": "21",
+		"p": "cp",
 		"text": "Allah telah menetapkan, “Aku dan rasul-rasul-Ku pasti menang.” Sungguh, Allah Mahakuat, Mahaperkasa."
 	},
 	{

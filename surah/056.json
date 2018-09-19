@@ -163,18 +163,17 @@
 	},
 	{
 		"aid": "38",
-		"p": "cp",
-		"r": "1",
 		"text": "untuk golongan kanan."
 	},
 	{
 		"aid": "39",
-		"p": "op",
+		"p": "nl",
 		"text": "Segolongan besar dari orang-orang yang terdahulu,"
 	},
 	{
 		"aid": "40",
 		"p": "cp",
+		"r": "1",
 		"text": "dan segolongan besar pula dari orang yang kemudian."
 	},
 	{
@@ -227,7 +226,7 @@
 	},
 	{
 		"aid": "52",
-		"text": "Pasti akan memakan pohon zaqquum,"
+		"text": "Pasti akan memakan pohon <i>zaqquum</i>,"
 	},
 	{
 		"aid": "53",
@@ -261,7 +260,6 @@
 	},
 	{
 		"aid": "60",
-		"p": "nl",
 		"text": "Kami telah menentukan kematian masing-masing kamu dan Kami tidak lemah,"
 	},
 	{
@@ -284,7 +282,6 @@
 	},
 	{
 		"aid": "65",
-		"p": "nl",
 		"text": "Sekiranya Kami kehendaki, niscaya Kami hancurkan sampai lumat; maka kamu akan heran tercengang,"
 	},
 	{
@@ -307,7 +304,7 @@
 	},
 	{
 		"aid": "70",
-		"p": "nlcp",
+		"p": "cp",
 		"text": "Sekiranya Kami kehendaki, niscaya Kami menjadikannya asin, mengapa kamu tidak bersyukur?"
 	},
 	{
@@ -321,7 +318,7 @@
 	},
 	{
 		"aid": "73",
-		"p": "nlcp",
+		"p": "cp",
 		"text": "Kami menjadikannya (api itu) untuk peringatan dan bahan yang berguna bagi musafir."
 	},
 	{
@@ -344,7 +341,7 @@
 	},
 	{
 		"aid": "78",
-		"text": "dalam Kitab yang terpelihara (Lauh Mahfuuzh),"
+		"text": "dalam Kitab yang terpelihara (<i>Lauh Mahfuuzh</i>),"
 	},
 	{
 		"aid": "79",
@@ -352,21 +349,21 @@
 	},
 	{
 		"aid": "80",
+		"p": "cp",
 		"text": "Diturunkan dari Tuhan seluruh alam."
 	},
 	{
 		"aid": "81",
-		"p": "nl",
+		"p": "op",
 		"text": "Apakah kamu menganggap remeh berita ini (Alquran)?"
 	},
 	{
 		"aid": "82",
-		"p": "cp",
 		"text": "Dan kamu menjadikan rezeki yang kamu terima [dari Allah] justru untuk mendustakan(-Nya)."
 	},
 	{
 		"aid": "83",
-		"p": "op",
+		"p": "nl",
 		"text": "Maka kalau begitu mengapa [tidak mencegah] ketika [nyawa] telah sampai di kerongkongan,"
 	},
 	{
@@ -397,7 +394,6 @@
 	},
 	{
 		"aid": "90",
-		"p": "nl",
 		"text": "Dan adapun jika dia termasuk golongan kanan,"
 	},
 	{
@@ -420,10 +416,12 @@
 	},
 	{
 		"aid": "95",
+		"p": "op",
 		"text": "Sungguh, inilah keyakinan yang benar."
 	},
 	{
 		"aid": "96",
+		"p": "cp",
 		"r": "3",
 		"text": "Maka bertasbihlah dengan [menyebut] nama Tuhanmu Yang Mahabesar."
 	}

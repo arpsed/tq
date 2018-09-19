@@ -140,21 +140,21 @@
 	},
 	{
 		"aid": "30",
-		"text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
-	},
-	{
-		"aid": "31",
-		"p": "nl",
-		"text": "Kami akan memberi perhatian sepenuhnya kepadamu wahai [golongan] manusia dan jin!"
-	},
-	{
-		"aid": "32",
 		"p": "cp",
 		"text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
 	},
 	{
-		"aid": "33",
+		"aid": "31",
 		"p": "op",
+		"text": "Kami akan memberi perhatian sepenuhnya kepadamu wahai [golongan] manusia dan jin!"
+	},
+	{
+		"aid": "32",
+		"text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+	},
+	{
+		"aid": "33",
+		"p": "nl",
 		"text": "Wahai golongan jin dan manusia! Jika kamu sanggup menembus (melintasi) penjuru langit dan bumi, maka tembuslah. Kamu tidak akan mampu menembusnya kecuali dengan kekuatan [dari Allah]."
 	},
 	{
@@ -169,12 +169,11 @@
 	},
 	{
 		"aid": "36",
-		"p": "cp",
 		"text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
 	},
 	{
 		"aid": "37",
-		"p": "op",
+		"p": "nl",
 		"text": "Maka apabila langit telah terbelah dan menjadi merah mawar seperti [kilauan] minyak."
 	},
 	{

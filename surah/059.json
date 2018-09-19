@@ -18,7 +18,7 @@
 	},
 	{
 		"aid": "4",
-		"p": "nlcp",
+		"p": "cp",
 		"text": "Yang demikian itu karena sesungguhnya mereka menentang Allah dan Rasul-Nya. Barang siapa menentang Allah, maka sesungguhnya Allah sangat keras hukuman-Nya."
 	},
 	{
@@ -27,11 +27,11 @@
 	},
 	{
 		"aid": "6",
-		"text": "Dan harta rampasan fai dari mereka yang diberikan Allah kepada Rasul-Nya, kamu tidak memerlukan kuda atau unta untuk mendapatkannya, tetapi Allah memberikan kekuasaan kepada rasul-rasul-Nya terhadap siapa yang Dia kehendaki. Dan Allah Mahakuasa atas segala sesuatu."
+		"text": "Dan harta rampasan <i>fai</i> dari mereka yang diberikan Allah kepada Rasul-Nya, kamu tidak memerlukan kuda atau unta untuk mendapatkannya, tetapi Allah memberikan kekuasaan kepada rasul-rasul-Nya terhadap siapa yang Dia kehendaki. Dan Allah Mahakuasa atas segala sesuatu."
 	},
 	{
 		"aid": "7",
-		"text": "Harta rampasan fai yang diberikan Allah kepada Rasul-Nya [yang berasal] dari penduduk beberapa negeri, adalah untuk Allah, Rasul, kerabat [Rasul], anak-anak yatim, orang-orang miskin, dan untuk orang-orang yang dalam perjalanan, agar harta itu jangan hanya beredar di antara orang-orang kaya saja di antara kamu. Apa yang diberikan Rasul kepadamu maka terimalah. Dan apa yang dilarangnya bagimu maka tinggalkanlah. Dan bertakwalah kepada Allah. Sungguh, Allah sangat keras hukuman-Nya."
+		"text": "Harta rampasan <i>fai</i> yang diberikan Allah kepada Rasul-Nya [yang berasal] dari penduduk beberapa negeri, adalah untuk Allah, Rasul, kerabat [Rasul], anak-anak yatim, orang-orang miskin, dan untuk orang-orang yang dalam perjalanan, agar harta itu jangan hanya beredar di antara orang-orang kaya saja di antara kamu. Apa yang diberikan Rasul kepadamu maka terimalah. Dan apa yang dilarangnya bagimu maka tinggalkanlah. Dan bertakwalah kepada Allah. Sungguh, Allah sangat keras hukuman-Nya."
 	},
 	{
 		"aid": "8",
@@ -99,14 +99,17 @@
 	},
 	{
 		"aid": "22",
+		"p": "op",
 		"text": "Dialah Allah, tidak ada tuhan selain Dia. Mengetahui yang gaib dan yang nyata, Dialah Yang Maha Pengasih, Maha Penyayang."
 	},
 	{
 		"aid": "23",
+		"p": "nl",
 		"text": "Dialah Allah, tidak ada tuhan selain Dia. Maharaja Yang Mahasuci, Yang Mahasejahtera, Yang menjaga keamanan, Pemelihara keselamatan, Yang Mahaperkasa, Yang Mahakuasa, Yang memiliki segala keagungan. Mahasuci Allah dari apa yang mereka persekutukan."
 	},
 	{
 		"aid": "24",
+		"p": "nlcp",
 		"r": "3",
 		"text": "Dialah Allah yang menciptakan, yang mengadakan, yang membentuk rupa, Dia memiliki nama-nama yang indah. Apa yang di langit dan di bumi bertasbih kepada-Nya. Dan Dialah Yang Mahaperkasa, Mahabijaksana."
 	}
