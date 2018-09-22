@@ -67,11 +67,11 @@
 	},
 	{
 		"aid": "15",
-		"p": "nlcp",
 		"text": "Sungguh, [kalau] Kami melenyapkan azab itu sedikit saja, tentu kamu akan kembali [ingkar]."
 	},
 	{
 		"aid": "16",
+		"p": "nlcp",
 		"text": "[Ingatlah] pada hari [ketika] Kami menghantam mereka dengan keras. Kami pasti memberi balasan."
 	},
 	{
@@ -93,12 +93,11 @@
 	},
 	{
 		"aid": "21",
-		"p": "cp",
 		"text": "dan jika kamu tidak beriman kepadaku, maka biarkanlah aku (memimpin Bani Israil).”"
 	},
 	{
 		"aid": "22",
-		"p": "op",
+		"p": "nl",
 		"text": "Kemudian dia (Musa) berdoa kepada Tuhannya, “Sungguh, mereka ini adalah kaum yang berdosa (segerakanlah azab kepada mereka).”"
 	},
 	{
@@ -141,12 +140,11 @@
 	},
 	{
 		"aid": "31",
-		"p": "cp",
 		"text": "dari (siksaan) Fir`aun, sungguh, dia itu orang yang sombong, termasuk orang-orang yang melampaui batas."
 	},
 	{
 		"aid": "32",
-		"p": "op",
+		"p": "nl",
 		"text": "Dan sungguh, Kami pilih mereka (Bani Israil) dengan ilmu [Kami] di atas semua bangsa (pada masa itu)."
 	},
 	{
@@ -180,7 +178,7 @@
 	{
 		"aid": "39",
 		"p": "cp",
-		"text": "Tidaklah Kami ciptakan keduanya melainkan dengan haq (benar), tetapi kebanyakan mereka tidak mengetahui."
+		"text": "Tidaklah Kami ciptakan keduanya melainkan dengan <i>haq</i> (benar), tetapi kebanyakan mereka tidak mengetahui."
 	},
 	{
 		"aid": "40",
@@ -200,7 +198,7 @@
 	{
 		"aid": "43",
 		"p": "op",
-		"text": "Sungguh pohon zaqquum itu,"
+		"text": "Sungguh pohon <i>zaqquum</i> itu,"
 	},
 	{
 		"aid": "44",
