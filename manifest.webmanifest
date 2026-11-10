@@ -1,0 +1,16 @@
+{
+  "name": "Terjemahan Al-Qur’an",
+  "short_name": "Terjemahan",
+  "description": "Terjemahan makna Al-Qur’an dalam bahasa Indonesia, disusun sebagai bacaan bersambung.",
+  "lang": "id",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf8f3",
+  "theme_color": "#2d6a55",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

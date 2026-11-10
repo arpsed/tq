@@ -1,1 +1,74 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no"><meta name="theme-color" content="#000000"><link rel="manifest" href="/tq/manifest.json"><link rel="shortcut icon" href="/tq/favicon.ico"><title>Terjemahan Alquran</title><link href="/tq/static/css/main.eaf622e3.css" rel="stylesheet"></head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="root"></div><script type="text/javascript" src="/tq/static/js/main.f4e6b52a.js"></script></body></html>
+<!doctype html>
+<html lang="id">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Terjemahan Al-Qur’an</title>
+<meta name="description" content="Terjemahan makna Al-Qur’an dalam bahasa Indonesia, disusun sebagai bacaan bersambung. Bukan teks asli Al-Qur’an.">
+<meta name="theme-color" content="#faf8f3">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Terjemahan">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="icon" type="image/png" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip" href="#main">Langsung ke isi</a>
+
+<header class="topbar">
+  <button type="button" class="icon-btn" id="btn-toc" aria-label="Daftar isi" title="Daftar isi">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h10"/></svg>
+  </button>
+  <a class="topbar-title" id="topbar-title" href="#">Terjemahan Al-Qur’an</a>
+  <button type="button" class="icon-btn" id="btn-search" aria-label="Cari" title="Cari">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6"/><path d="M15 15l5 5"/></svg>
+  </button>
+  <button type="button" class="icon-btn" id="btn-settings" aria-label="Pengaturan tampilan" title="Pengaturan tampilan" aria-expanded="false" aria-controls="settings">
+    <span class="aa" aria-hidden="true">Aa</span>
+  </button>
+</header>
+
+<div class="settings" id="settings" hidden>
+  <div class="settings-inner" role="group" aria-label="Pengaturan tampilan">
+    <div class="set-row">
+      <span class="set-label">Ukuran huruf</span>
+      <div class="seg">
+        <button type="button" data-act="font-down" aria-label="Perkecil huruf">A−</button>
+        <output id="font-size-out">19</output>
+        <button type="button" data-act="font-up" aria-label="Perbesar huruf">A+</button>
+      </div>
+    </div>
+    <div class="set-row">
+      <span class="set-label">Tema</span>
+      <div class="seg" id="theme-seg">
+        <button type="button" data-theme-choice="auto">Otomatis</button>
+        <button type="button" data-theme-choice="light">Terang</button>
+        <button type="button" data-theme-choice="sepia">Sepia</button>
+        <button type="button" data-theme-choice="dark">Gelap</button>
+      </div>
+    </div>
+    <label class="set-check"><input type="checkbox" id="opt-vn"> Tampilkan nomor ayat</label>
+    <label class="set-check"><input type="checkbox" id="opt-fn"> Tampilkan tanda catatan kaki</label>
+    <label class="set-check"><input type="checkbox" id="opt-review"> Mode tinjauan <small>(label paragraf &amp; bagian)</small></label>
+  </div>
+</div>
+
+<main id="main" tabindex="-1">
+  <p class="loading">Memuat…</p>
+</main>
+
+<div class="note-pop" id="note-pop" role="dialog" aria-labelledby="note-pop-title" hidden>
+  <div class="note-pop-head">
+    <span class="note-pop-title" id="note-pop-title"></span>
+    <button type="button" class="note-pop-close" aria-label="Tutup catatan">×</button>
+  </div>
+  <div class="note-pop-body"></div>
+</div>
+
+<noscript><p class="noscript">Aplikasi ini memerlukan JavaScript. Aktifkan JavaScript di peramban Anda.</p></noscript>
+<script src="parser.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+// Terjemahan Al-Qur’an — Surah 92 (Al-Lail). Cara mengedit: lihat README.md
+TQ.surah(`
+# 92 | Al-Lail | Malam | Makkiyah
+
+// Sumpah dan dua jalan usaha manusia
+{1} Demi malam apabila menutupi (cahaya siang). {2} Demi siang bila terang benderang. {3} Demi penciptaan laki-laki dan perempuan. {4} Sungguh, usahamu memang beraneka macam. {5} Maka barangsiapa memberikan (hartanya di jalan Allah) dan bertakwa, {6} dan membenarkan (adanya pahala) yang terbaik (surga), {7} maka akan Kami mudahkan baginya jalan menuju kemudahan (kebahagiaan). {8} Dan adapun orang yang kikir dan merasa dirinya cukup (tidak perlu pertolongan Allah), {9} serta mendustakan (pahala) yang terbaik, {10} maka akan Kami mudahkan baginya jalan menuju kesukaran (kesengsaraan). {11} Dan hartanya tidak bermanfaat baginya apabila dia telah binasa.
+
+// Peringatan neraka dan orang yang paling bertakwa
+{12} Sesungguhnya Kami lah yang memberi petunjuk, {13} dan sesungguhnya milik Kami lah akhirat dan dunia. {14} Maka aku memperingatkan kamu dengan neraka yang menyala-nyala, {15} yang hanya dimasuki oleh orang yang paling celaka, {16} yang mendustakan (kebenaran) dan berpaling (dari iman). {17} Dan akan dijauhkan darinya (neraka) orang yang paling bertakwa, {18} yang menginfakkan hartanya (di jalan Allah) untuk membersihkan (dirinya), {19} dan tidak ada seorang pun memberikan suatu nikmat padanya yang harus dibalasnya, {20} tetapi (dia memberikan itu semata-mata) karena mencari keridaan Tuhannya Yang Mahatinggi. {21} Dan niscaya kelak dia akan mendapat kesenangan (yang sempurna).
+
+`);

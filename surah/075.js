@@ -1,0 +1,31 @@
+// Terjemahan Al-Qur’an — Surah 75 (Al-Qiyāmah). Cara mengedit: lihat README.md
+TQ.surah(`
+# 75 | Al-Qiyāmah | Hari Kiamat | Makkiyah
+
+// Sumpah dan keraguan manusia akan kebangkitan
+{1} Aku bersumpah dengan hari Kiamat, {2} dan aku bersumpah demi jiwa yang selalu menyesali (dirinya sendiri). {3} Apakah manusia mengira, bahwa Kami tidak akan mengumpulkan (kembali) tulang belulangnya? {4} (Bahkan) Kami mampu menyusun (kembali) jari jemarinya dengan sempurna. {5} Tetapi manusia hendak membuat maksiat terus menerus. {6} Dia bertanya, "Kapankah hari Kiamat itu?"
+
+// Hari Kiamat: tidak ada tempat pelarian
+{7} Maka apabila mata terbelalak (ketakutan), {8} dan bulan pun telah hilang cahayanya, {9} lalu matahari dan bulan dikumpulkan, {10} pada hari itu manusia berkata, "Ke mana tempat pelarian?" {11} Tidak! Tidak ada tempat berlindung! {12} Hanya kepada Tuhanmu tempat kembali pada hari itu. {13} Pada hari itu diberitakan kepada manusia apa yang telah dikerjakannya dan apa yang dilalaikannya. {14} Bahkan manusia menjadi saksi atas dirinya sendiri,[^14a] {15} dan meskipun dia mengemukakan alasan-alasannya.
+
+// Larangan tergesa-gesa membaca Al-Qur’an
+{16} Jangan engkau (Muhammad) gerakkan lidahmu (untuk membaca Al-Qur’an) karena hendak cepat-cepat (menguasai)nya. {17} Sesungguhnya Kami yang akan mengumpulkannya (di dadamu) dan membacakannya. {18} Apabila Kami telah selesai membacakannya maka ikutilah bacaannya itu. {19} Kemudian sesungguhnya Kami yang akan menjelaskannya.
+
+// Cinta dunia dan wajah-wajah pada hari itu
+{20} Tidak! Bahkan Kamu mencintai kehidupan dunia, {21} dan mengabaikan (kehidupan) akhirat. {22} Wajah-wajah (orang mukmin) pada hari itu berseri-seri. {23} Memandang Tuhannya. {24} Dan wajah-wajah (orang kafir) pada hari itu muram, {25} mereka yakin bahwa akan ditimpakan kepadanya malapetaka yang sangat dahsyat.
+
+// Saat nyawa sampai ke kerongkongan
+{26} Tidak! Apabila (nyawa) telah sampai ke kerongkongan, {27} dan dikatakan (kepadanya), "Siapa yang dapat menyembuhkan?" {28} dan dia yakin bahwa itulah waktu perpisahan (dengan dunia), {29} dan bertaut betis (kiri) dengan betis (kanan),[^29a] {30} kepada Tuhanmu lah pada hari itu kamu dihalau.
+
+***
+
+// Orang yang mendustakan dan celakanya
+{31} Karena dia (dahulu) tidak mau membenarkan (Al-Qur’an dan Rasul) dan tidak mau melaksanakan salat, {32} tetapi justru dia mendustakan (Rasul) dan berpaling (dari kebenaran), {33} kemudian dia pergi kepada keluarganya dengan sombong. {34} Celakalah kamu! Maka celakalah! {35} Sekali lagi, celakalah kamu (manusia)! Maka celakalah!
+
+// Penciptaan manusia sebagai bukti kebangkitan
+{36} Apakah manusia mengira, dia akan dibiarkan begitu saja (tanpa pertanggung-jawaban)? {37} Bukankah dia mulanya hanya setetes mani yang ditumpahkan (ke dalam rahim), {38} kemudian (mani itu) menjadi sesuatu yang melekat, lalu Allah menciptakannya dan menyempurnakannya, {39} lalu Dia menjadikan darinya sepasang laki-laki dan perempuan. {40} Bukankah (Allah yang berbuat) demikian berkuasa (pula) menghidupkan orang mati?
+
+[^14a]: Anggota badan manusia menjadi saksi terhadap pekerjaan yang telah mereka lakukan seperti tersebut dalam surah An-Nur (24) ayat 24.
+[^29a]: Karena hebatnya penderitaan pada saat akan mati dan ketakutan akan meninggalkan dunia dan menghadapi akhirat.
+
+`);
