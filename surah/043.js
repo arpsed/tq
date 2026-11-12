@@ -77,7 +77,7 @@ TQ.surah(`
 {79} Ataukah mereka telah merencanakan suatu tipu daya (jahat), maka sesungguhnya Kami telah berencana (mengatasi tipu daya mereka).[^79a] {80} Ataukah mereka mengira bahwa Kami tidak mendengar rahasia dan bisikan-bisikan mereka? Sebenarnya (Kami mendengar), dan utusan-utusan Kami (malaikat) selalu mencatat di sisi mereka.
 
 // Anggapan Tuhan mempunyai anak
-{81} Katakanlah (Muhammad), "Jika benar Tuhan Yang Maha Pengasih mempunyai anak, maka akulah orang yang mula-mula memuliakan (anak itu). {82} Mahasuci Tuhan pemilik langit dan bumi, Tuhan pemilik Arasy, dari apa yang mereka sifatkan itu." {83} Maka biarkanlah mereka tenggelam (dalam kesesatan) dan bermain-main sampai mereka menemui hari yang dijanjikan kepada mereka.
+{81} Katakanlah (Muhammad), "Jika benar Tuhan Yang Maha Pengasih mempunyai anak, maka akulah orang yang mula-mula memuliakan (anak itu). {82} Mahasuci Tuhan pemilik langit dan bumi, Tuhan pemilik ’Arsy, dari apa yang mereka sifatkan itu." {83} Maka biarkanlah mereka tenggelam (dalam kesesatan) dan bermain-main sampai mereka menemui hari yang dijanjikan kepada mereka.
 
 // Tuhan di langit dan di bumi
 {84} Dan Dialah Tuhan (yang disembah) di langit dan Tuhan (yang disembah) di bumi, dan Dialah Yang Mahabijaksana, Maha Mengetahui. {85} Dan Mahasuci (Allah) yang memiliki kerajaan langit dan bumi, dan apa yang ada di antara keduanya; dan di sisi-Nyalah ilmu tentang hari Kiamat, dan hanya kepada-Nyalah kamu dikembalikan. {86} Dan orang-orang yang menyeru kepada selain Allah tidak mendapat syafaat (pertolongan di akhirat); kecuali orang yang mengakui yang hak (tauhid) dan mereka meyakini.

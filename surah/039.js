@@ -92,8 +92,8 @@ TQ.surah(`
 // Pujian penghuni surga
 {74} Dan mereka berkata, "Segala puji bagi Allah yang telah memenuhi janji-Nya kepada kami dan telah memberikan tempat ini kepada kami sedang kami (diperkenankan) menempati surga di mana saja yang kami kehendaki." Maka (surga itulah) sebaik-baik balasan bagi orang-orang yang beramal.
 
-// Malaikat di sekeliling Arasy
-{75} Dan engkau (Muhammad) akan melihat malaikat-malaikat melingkar di sekeliling Arasy, bertasbih sambil memuji Tuhannya; lalu diberikan keputusan di antara mereka (hamba-hamba Allah) secara adil dan dikatakan, "Segala puji bagi Allah, Tuhan seluruh alam."
+// Malaikat di sekeliling ’Arsy
+{75} Dan engkau (Muhammad) akan melihat malaikat-malaikat melingkar di sekeliling ’Arsy, bertasbih sambil memuji Tuhannya; lalu diberikan keputusan di antara mereka (hamba-hamba Allah) secara adil dan dikatakan, "Segala puji bagi Allah, Tuhan seluruh alam."
 
 [^6a]: Tiga kegelapan itu ialah kegelapan dalam perut, kegelapan dalam rahim dan kegelapan dalam selaput yang menutup anak dalam rahim.
 [^7a]: Manusia beriman atau tidak, hal itu tidak merugikan Allah sedikit pun.

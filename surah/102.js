@@ -3,7 +3,7 @@ TQ.surah(`
 # 102 | At-Takāṡur | Bermegah-megahan | Makkiyah
 
 // Bermegah-megahan dan pertanggungjawaban atas kenikmatan
-{1} Bermegah-megahan telah melalaikan kamu,[^1a] {2} sampai kamu masuk ke dalam kubur. {3} Sekali-kali tidak! Kelak kamu akan mengetahui (akibat perbuatanmu itu). {4} Kemudian sekali-kali tidak! Kelak kamu akan mengetahui. {5} Sekali-kali tidak! Sekiranya kamu mengetahui dengan pasti, {6} niscaya kamu benar-benar akan melihat neraka Jahim, {7} kemudian kamu benar-benar akan melihatnya dengan mata kepala sendiri, {8} kemudian kamu benar-benar akan ditanya pada hari itu tentang kenikmatan (yang megah di dunia itu).
+{1} Bermegah-megahan telah melalaikan kamu,[^1a] {2} sampai kamu masuk ke dalam kubur. {3} Sekali-kali tidak! Kelak kamu akan mengetahui [akibat perbuatanmu itu], {4} kemudian sekali-kali tidak! Kelak kamu akan mengetahui. {5} Sekali-kali tidak! Sekiranya kamu mengetahui dengan pasti, {6} niscaya kamu benar-benar akan melihat neraka Jahim, {7} kemudian kamu benar-benar akan melihatnya dengan mata kepala sendiri, {8} kemudian kamu benar-benar akan ditanya pada hari itu tentang kenikmatan [yang megah di dunia itu].
 
 [^1a]: Bermegah-megahan dalam soal banyak anak, harta, pengikut, kemuliaan dan sebagainya, telah melalaikan kamu dari ketaatan kepada Allah.
 

@@ -6,7 +6,7 @@ TQ.surah(`
 {1} Ṭāhā.
 
 // Tujuan turunnya Al-Qur’an dan sifat Allah
-{2} Kami tidak menurunkan Al-Qur’an ini kepadamu (Muhammad) agar engkau menjadi susah; {3} melainkan sebagai peringatan bagi orang yang takut (kepada Allah), {4} diturunkan dari (Allah) yang menciptakan bumi dan langit yang tinggi, {5} (yaitu) Yang Maha Pengasih, yang bersemayam di atas Arasy.[^5a] {6} Milik-Nyalah apa yang ada di langit, apa yang ada di bumi, apa yang ada di antara keduanya, dan apa yang ada di bawah tanah. {7} Dan jika engkau mengeraskan ucapanmu, sungguh, Dia mengetahui rahasia dan yang lebih tersembunyi.[^7a] {8} (Dialah) Allah, tidak ada tuhan selain Dia, yang mempunyai nama-nama yang terbaik.
+{2} Kami tidak menurunkan Al-Qur’an ini kepadamu (Muhammad) agar engkau menjadi susah; {3} melainkan sebagai peringatan bagi orang yang takut (kepada Allah), {4} diturunkan dari (Allah) yang menciptakan bumi dan langit yang tinggi, {5} (yaitu) Yang Maha Pengasih, yang bersemayam di atas ’Arsy.[^5a] {6} Milik-Nyalah apa yang ada di langit, apa yang ada di bumi, apa yang ada di antara keduanya, dan apa yang ada di bawah tanah. {7} Dan jika engkau mengeraskan ucapanmu, sungguh, Dia mengetahui rahasia dan yang lebih tersembunyi.[^7a] {8} (Dialah) Allah, tidak ada tuhan selain Dia, yang mempunyai nama-nama yang terbaik.
 
 // Musa melihat api
 {9} Dan apakah telah sampai kepadamu kisah Musa? {10} Ketika dia (Musa) melihat api, lalu dia berkata kepada keluarganya, "Tinggallah kamu (disini), sesungguhnya aku melihat api, mudah-mudahan aku dapat membawa sedikit nyala api kepadamu atau aku akan mendapat petunjuk di tempat api itu."

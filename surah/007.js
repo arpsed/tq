@@ -105,7 +105,7 @@ TQ.surah(`
 ***
 
 // Allah Pencipta dan adab berdoa
-{54} Sungguh, Tuhanmu (adalah) Allah yang menciptakan langit dan bumi dalam enam masa, lalu Dia bersemayam di atas Arasy.[^54a] Dia menutupkan malam kepada siang yang mengikutinya dengan cepat. (Dia ciptakan) matahari, bulan dan bintang-bintang tunduk kepada perintah-Nya. Ingatlah! Segala penciptaan dan urusan menjadi hak-Nya. Mahasuci Allah, Tuhan seluruh alam. {55} Berdoalah kepada Tuhanmu dengan rendah hati dan suara yang lembut. Sungguh, Dia tidak menyukai orang-orang yang melampaui batas. {56} Dan janganlah kamu berbuat kerusakan di bumi setelah (diciptakan) dengan baik. Berdoalah kepada-Nya dengan rasa takut dan penuh harap. Sesungguhnya rahmat Allah sangat dekat kepada orang yang berbuat kebaikan.
+{54} Sungguh, Tuhanmu (adalah) Allah yang menciptakan langit dan bumi dalam enam masa, lalu Dia bersemayam di atas ’Arsy.[^54a] Dia menutupkan malam kepada siang yang mengikutinya dengan cepat. (Dia ciptakan) matahari, bulan dan bintang-bintang tunduk kepada perintah-Nya. Ingatlah! Segala penciptaan dan urusan menjadi hak-Nya. Mahasuci Allah, Tuhan seluruh alam. {55} Berdoalah kepada Tuhanmu dengan rendah hati dan suara yang lembut. Sungguh, Dia tidak menyukai orang-orang yang melampaui batas. {56} Dan janganlah kamu berbuat kerusakan di bumi setelah (diciptakan) dengan baik. Berdoalah kepada-Nya dengan rasa takut dan penuh harap. Sesungguhnya rahmat Allah sangat dekat kepada orang yang berbuat kebaikan.
 
 // Angin, hujan, dan tanah yang subur
 {57} Dialah yang meniupkan angin sebagai pembawa kabar gembira, mendahului kedatangan rahmat-Nya (hujan), sehingga apabila angin itu membawa awan mendung, Kami halau ke suatu daerah yang tandus, lalu Kami turunkan hujan di daerah itu. Kemudian Kami tumbuhkan dengan hujan itu berbagai macam buah-buahan. Seperti itulah Kami membangkitkan orang yang telah mati, mudah-mudahan kamu mengambil pelajaran. {58} Dan tanah yang baik, tanaman-tanamannya tumbuh subur dengan izin Tuhan; dan tanah yang buruk, tanaman-tanamannya hanya tumbuh merana. Demikianlah Kami menjelaskan berulang-ulang tanda-tanda (kebesaran Kami) bagi orang-orang yang bersyukur.
@@ -377,7 +377,7 @@ TQ.surah(`
 [^32a]: Perhiasan-perhiasan dari Allah dan makanan yang baik itu dapat dinikmati di dunia ini oleh orang yang beriman dan orang yang tidak beriman, sedang di akhirat nanti hanya untuk orang yang beriman saja.
 [^40a]: Artinya doa dan amal mereka tidak diterima oleh Allah.
 [^40b]: Artinya mereka tidak mungkin masuk surga sebagaimana tidak mungkinnya unta masuk ke dalam lubang jarum.
-[^54a]: Bersemayam di atas Arasy ialah satu sifat Allah yang wajib kita imani, sesuai dengan keagungan Allah dan kesucian-Nya.
+[^54a]: Bersemayam di atas ’Arsy ialah satu sifat Allah yang wajib kita imani, sesuai dengan keagungan Allah dan kesucian-Nya.
 [^120a]: Mereka langsung bersujud kepada Allah karena meyakini kebenaran seruan Nabi Musa -'alaihissalām- dan bukan sihir seperti yang mereka duga semula.
 [^137a]: Negeri Syam dan Mesir dan negeri-negeri sekitar keduanya yang pernah dikuasai Fir'aun dahulu, setelah kerajaan Fir'aun runtuh negeri-negeri itu diwarisi oleh Bani Israil.
 [^137b]: Yang dimaksud dengan bangunan-bangunan Fir'aun yang dihancurkan Allah ialah bangunan-bangunan yang mereka dirikan dengan menindas Bani Israil, seperti kota Ramses, menara yang dibangun Haman atas perintah Fir'aun.

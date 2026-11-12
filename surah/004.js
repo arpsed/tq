@@ -341,7 +341,7 @@ TQ.surah(`
 [^171a]: Janganlah kamu mengatakan Nabi Isa -'alaihissalām- itu Tuhan, sebagaimana dikatakan oleh orang Nasrani.
 [^171b]: Maksud kalimat yaitu kun, sehingga Nabi Isa -'alaihissalām- diciptakan tanpa bapak.
 [^171c]: Disebut tiupan dari Allah karena tiupan itu berasal dari perintah Allah.
-[^172a]: Malaikat yang berada di sekitar Arasy seperti Jibril, Mikail dan Israfil.
+[^172a]: Malaikat yang berada di sekitar ’Arsy seperti Jibril, Mikail dan Israfil.
 [^176a]: Kalālah ialah orang mati yang tidak meninggalkan bapak dan anak.
 
 `);
